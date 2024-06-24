@@ -28,6 +28,7 @@ Hér er sýnidæmi um afar einfalda vefsíðu:
 </html>
 
 ```
+
 * _&lt;!DOCTYPE HTML>_
     * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn.
 * Utan um allt efni vefsíðunnar er &lt;html> &lt;/html>.
@@ -53,16 +54,14 @@ vendihnapp hefur engin áhrif.
 
 Tög mega ekki víxlast, því þá virka skipanir ekki rétt.
 
-### Fyrisagnir <h1> til <h6>
+### Fyrisagnir &lt;h1> til &lt;h6>
 
-Í HTML staðlinum er boðið upp á 6 tög fyrir fyrirsagnaletur, Sjálfgefið hafa tögin
-ákveðið hlutfall af leturstærð &lt;body> tagsins. Ef þú setur inn fyrisögn í skjal t.d. &lt;h2> þá
-verður undirfyrisögn að vera &lt;h3> , undirfyrsögn má ekki vera &lt;h4> (það má ekki hoppa
-yfir).
-* &lt;p> tagið stendur fyrir málsgrein (paragraph). Í vöfrum er sjálfgefið að <p> er með 1 autt
-línubil fyrir ofan og neðan málsgrein.
+Í HTML staðlinum er boðið upp á 7 leturtög &lt;h1> til &lt;h6> og &lt;p>, Sjálfgefið hafa tögin
+ákveðnu hlutfalli af leturstærð &lt;body> tagsins. Body er sjálfgefið (_user agent_) 1em eða 16px.
 
-* &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn).
+&lt;p> tagið stendur fyrir málsgrein (paragraph). Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin. Förum nánar í eiginleika taga í 2. verkefni.
+
+&lt;br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn).
 
 Dæmi:
 
