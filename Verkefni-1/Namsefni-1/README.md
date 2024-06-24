@@ -38,6 +38,12 @@ ________________________________________________________
 
 # CSS stílsetning
 
+Grunnmálfræði CSS samanstendur af veljara (selector) og stíl (declaration). Veljari (selector) getur verið HTML tag sem þú vilt stíla. Hver stíll (declaration) er með eigindi (property) og gildi (value). Semikomman aðgreinir stílana.
+
+Veljarinn (Selector) kemur á undann, síðan kemur slaufusvigi { því næst skipun (Declaration), sem aftur er skipt í eigindi (property) og gildi (value) sem eru aðskilin með tvípunkti : og loks öfugur slaufusvigi }
+
+> Til að gera slaufusviga: { = Alt Gr takkinn + 7 og } = Alt Gr takinn + 0
+
 ![css selector](selector.gif)
 
 Valtag (_selector_) bendir á HTML þáttinn (_element_) sem þú vilt stíla.
@@ -47,6 +53,8 @@ Hver skipun inniheldur eigindi og gildi.
 Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikommum.
 
 Margar CSS skipanir eru aðgreindar með semikommum og þær eru umvafðar með slaufusviga.
+
+
 
 Dæmi:
 

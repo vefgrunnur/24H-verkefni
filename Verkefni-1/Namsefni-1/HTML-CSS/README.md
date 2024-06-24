@@ -23,20 +23,20 @@ Sjá nánar á [http://www.w3.org/Style/CSS/](http://www.w3.org/Style/CSS/)
 
 Þrjár leiðir eru færar til að setja stíla á HTML vefsíðu.
 
-* &gt;body> Hjúpað (Inline)
+* &lt;body> Hjúpað (Inline)
 Stílar settir í HTML tög og gilda einungis fyrir tagið sem stílarnir eru í.
-* &gt;head> Staðbundið (Local)
+* &lt;head> Staðbundið (Local)
 Stílar settir í haus, gildir fyrir allt HTML skjalið.
-* &gt;link> Víðvært (Global)
+* &lt;link> Víðvært (Global)
 Stílar eru settir í annað skjal sem stílsíða og hefur endinguna .css - allar
 vefsíður sem tengdar eru stílsíðunni hafa sömu eiginleika og útlit.
 Samanburður: Hjúpaðir **–** Staðbundið **–** Víðvært
 
 Hjúpaðir stílar hafa forgang yfir staðbundna stíla og staðbundnir stílar yfir víðværum stílum. Þegar vefsíða birtist í vafra þá er ferlið í grófum dráttum svona:
 
-* Vafrinn les inn í vinnsluminni tölvunnar fyrst það sem tengist síðunni ss myndir og stílsnið, síðan koma skipanir úr &gt;head> hlutanum ofaná og síðast uppsetningin sem sett er inní &gt;body> tagið ofaná allt saman.
+* Vafrinn les inn í vinnsluminni tölvunnar fyrst það sem tengist síðunni ss myndir og stílsnið, síðan koma skipanir úr &lt;head> hlutanum ofaná og síðast uppsetningin sem sett er inní &lt;body> tagið ofaná allt saman.
 
-Við munum nánast eingöngu tengja stílsíðu við vefsíður, &gt;link> (Víðvært/Global). Hinar aðferðirnar eigum við að forðast að nota (sjá nánari lýsingu á þeim hér aftast).
+Við munum nánast eingöngu tengja stílsíðu við vefsíður, &lt;link> (Víðvært/Global). Hinar aðferðirnar eigum við að forðast að nota (sjá nánari lýsingu á þeim hér aftast).
 
 Skoðum aðeins Víðværu leiðina aðeins betur!
 
@@ -44,9 +44,9 @@ Skoðum aðeins Víðværu leiðina aðeins betur!
 
 Styrkur stílsíðna felast í því að geta búið til stíla í sérskjali sem síðan er tengd við hverja þá HTML síðu sem setja skal undir sama útlit eða uppsetningu. Varla þarf að fjölyrða um hve öflugt þetta er og nægir að nefna samþætt útlit vefsvæðis. Ef breyta á einhverju þarf ekki að fara á hverja síðu fyrir sig heldur er nóg að breyta stílum í stílsíðunni. Til að nota víðværa stílsíðu þá þarf að vista það með endingunni **.css**
 
-Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &gt;link> tagið í HTML skjal sem vísar í CSS skjalið. Dæmi um hvernig stílsíða er tengd vefsíðu þá er notað HTML tagið &gt;link>:
+Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;link> tagið í HTML skjal sem vísar í CSS skjalið. Dæmi um hvernig stílsíða er tengd vefsíðu þá er notað HTML tagið &lt;link>:
 
-#### &gt;!DOCTYPE HTML>
+#### &lt;!DOCTYPE HTML>
 
 ```HTML
     <html>
@@ -72,58 +72,36 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &gt;lin
 ```
 
 
-Grunnmálfræði CSS samanstendur af veljara (selector) og stíl (declaration). Veljari (selector) getur verið HTML tag sem þú vilt stíla. Hver stíll (declaration) er með eigindi (property) og gildi (value). Semikomman aðgreinir stílana.
 
-Veljarinn (Selector) kemur á undann, síðan kemur slaufusvigi { því næst skipun (Declaration), sem aftur er skipt í eigindi (property) og gildi (value) sem eru aðskilin með tvípunkti : og loks öfugur slaufusvigi }
-
-> Til að gera slaufusviga: { = Alt Gr takkinn + 7 og } = Alt Gr takinn + 0
-```
-h1 {color:blue; font-size:12px;}
-
-Þetta þýðir: Fyrir öll <h1> tög sem koma fyrir í HTML skjali þá skulu þau vera blá á
-litinn (color:blue) og hafa leturstærðina 12px (font-size:12px).
-
-Veitið athygli að tvípunktinum ( : ) sem aðgreinir eigindið og gildið sem það fær.
-
-Semíkomma ( ; ) aðgreinir svo hvern stíl.
-
-
-Þægilegt er að skipta línum upp eftir hverja skipun svo auðveldara sé að lesa úr
-
-skipunum og minnka hættu á ritvillum:
-
-**h
-{
-color:blue;
-font-size:12px;
-}**
 
 ### Sýnidæmi nr 1:
 
-Þessi tvö skjöl þurfa að vera í sömu möppu, style.css og daemi1.html svo að
+Þessi tvö skjöl þurfa að vera í sömu möppu, style.css og index.html svo að
 linkurinn <link> virki á milli þeirra. Bæði skjölin eru unnin og vistuð með editor.
 
-Í CSS skjali sem ég gef heitinu style 1 .css skrifa ég eftirfarandi stílsnið(ekkert annað,
+Í CSS skjali sem ég gef heitinu styles.css skrifa ég eftirfarandi stílsnið(ekkert annað,
 ekkert HTML):
 
+```CSS
+  p {color:red;} /* Allar málsgreinar <p> eru með rauðan texta*/
 ```
-p {color:red;} /* Allar málsgreinar <p> eru með rauðan texta*/
-```
-í HTML skjali sem heitir t.d. daemi1.html:
 
+í HTML skjali sem heitir t.d. index.html:
+
+```HTML
 <!DOCTYPE HTML>
 <html>
-<head>
-<title>Dæmi nr. 1</title>
-**<link href="style1.css" rel="stylesheet" />**
-<meta charset="UTF-8" />
-</head>
-<body>
-<h1>Fyrirsögn</h1>
-<p>Þessi texti í málsgrein verður rauður<p>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Dæmi nr. 1</title>
+        <link href="styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Fyrirsögn</h1>
+        <p>Þessi texti í málsgrein verður rauður<p>
+    </body>
 </html>
-
+```
 
 ### Class og id
 
@@ -131,65 +109,9 @@ Ein aðferð við að bæta við stílum umfram þá sem eru sjálfgefnir eins o
 býður uppá er að nota class og id (nánar um id síðar). Sjá nánar:
 [http://www.w3schools.com/css/css_id_class.asp](http://www.w3schools.com/css/css_id_class.asp)
 
-Class
-
-Hægt er að nota class eigindið á hvaða HTML tag sem er, oftar en einu sinni.
-
-Þú býrð til class í CSS skjali með að skrifa punkt og svo eitthvert heiti (ekki byrja class
-heiti á númeri).
-
-Til að nota class í HTML skjalinu þá þarf að skrifa **class=”** heitið **”** í opna HTML tagið
-þar sem þú vilt nota það.
-
-Sýnidæmi:
-
-Segjum svo að þú ert með tvær eða fleiri málsgreinar <p> í HTML skjali en þú vilt að
-önnur þeirra sé með öðrum lit (red) og stærð (12px). Þetta er hægt að leysa með að
-búa til class:
-
-Kóðinn í CSS skjali:
-
-```
-p { font-size:10px } /* fyrir allar málsgreinar á vef */
-```
-```
-.specialtext {
-color:red;
-font-size:12px;
-}
-```
-Kóðinn í HTML skjali:
-
-```
-<body>
-<h1 class=”specialtext” >Þessi fyrirsögn verður rauð og 12px
-leturstærð</h1>
-```
-```
-<p>Þessi málsgrein er með 10px leturstærð og ekki rauð</p>
-```
-```
-<p class=”specialtext” > Þessi málsgrein er rauð á lit og með 12px
-leturstærð </p>
-</body>
-```
-
-<span>
-
-Við notum <span> tagið þegar okkur vantar tag utan um ákveðinn texta. Þetta HTML
-tag er sérstaklega gert til að vinna með class. Skoðum dæmi:
-
-HTML: <p>Ég hef <span class=“blue_eyes“> ljósblá</span> augu </p>
-
-CSS: **.blue_eyes** { color: #77aaff; }
-
-### Útkoman: Ég hef ljósblá augu
-
 Úreltar skipanir í HTML.
 
-> Athugið að <font>, <center>, <u>, <s>, <font> <big><mall> <b><i> ásamt fleiri
-tögum eru úreltar HTML 4 skipanir. Í dag eru þessar skipanir orðnar að eigindum
-annara taga í CSS stílsniði.
+> Athugið að &lt;font>, &lt;center>, &lt;font> ásamt fleiri tögum eru úreltar HTML 4 skipanir. Í dag eru þessar skipanir orðnar að eigindum annara taga í CSS stílsniði.
 
 #### GLÓSUR
 
