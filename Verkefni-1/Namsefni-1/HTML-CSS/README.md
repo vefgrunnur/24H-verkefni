@@ -59,7 +59,7 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
                         eru í rauðum lit */
 ```
 
-> /* */ afmarkar athugasemdir í CSS skjali. Sá texti sem settur er á milli /* */ birtist ekki á vefsíðu. Þetta gerir hönnuði mögulegt að punkta hjá sér skýringar eða taka út hluta kóðans. 
+> /*  */ afmarkar athugasemdir í CSS skjali. Sá texti sem settur þar á milli hefur ekki áhrif á útlit vefsíðu. Þetta gerir hönnuði mögulegt að punkta hjá sér skýringar eða taka út hluta kóðans. 
 
 > &lt;!-- --> gegnir sama hlutverki innan HTML skjals.
 
@@ -86,7 +86,7 @@ linkurinn <link> virki á milli þeirra. Bæði skjölin eru unnin og vistuð me
     </head>
     <body>
         <h1>Fyrirsögn</h1>
-        <p>Þessi texti í málsgrein verður rauður<p>
+        <p>Þessi texti í málsgrein verður rauð<p>
     </body>
 </html>
 ```
