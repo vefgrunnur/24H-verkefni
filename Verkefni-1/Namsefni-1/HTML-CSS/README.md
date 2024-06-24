@@ -28,20 +28,20 @@ Hér er sýnidæmi um afar einfalda vefsíðu:
 </html>
 
 ```
-* _<!DOCTYPE HTML>_
+* _&lt;!DOCTYPE HTML>_
     * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn.
-* Utan um allt efni vefsíðunnar er <html> </html>.
-* <head>
-    * Allt sem er sett á milli <head> og </head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli <head> taga t.d. javascript skriftur fara í <script> tagið og vísanir í tengd skjöl fara í <link> tagið.
-* <title>
-    * <title> birtir texta efst í gluggaröndinni í vefskoðaranum og einnig í eftirlæti ef síðan er valin af notanda.
-* <meta>
+* Utan um allt efni vefsíðunnar er &lt;html> &lt;/html>.
+* &lt;head>
+    * Allt sem er sett á milli &lt;head> og &lt;/head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli &lt;head> taga t.d. javascript skriftur fara í &lt;script> tagið og vísanir í tengd skjöl fara í &lt;link> tagið.
+* &lt;title>
+    * &lt;title> birtir texta efst í gluggaröndinni í vefskoðaranum og einnig í eftirlæti ef síðan er valin af notanda.
+* &lt;meta>
     * Stafasettið charset=“utf-8" er notað m.a. fyrir íslenska stafi.
-* <body> 
-    * Allt efni sem birtist í vafra fer á milli <body> og </body> tagsins. Hér á milli eru einnig flest önnur HTML tög skrifuð.
+* &lt;body> 
+    * Allt efni sem birtist í vafra fer á milli &lt;body> og &lt;/body> tagsins. Hér á milli eru einnig flest önnur HTML tög skrifuð.
 
 Þegar maður byrjar að skrifa HTML kóða fyrir vefsíðu þá er gott er að sjá fyrir sér
-mannslíkamann sem skiptist í höfuð <head> og bol <body>. Öll ofangreind tög í sýnidæminu
+mannslíkamann sem skiptist í höfuð &lt;head> og bol &lt;body>. Öll ofangreind tög í sýnidæminu
 eru nauðsynleg og mynda beinagrind vefsíðunnar. Athugaðu að það þessi tög eiga og mega
 aðeins koma fyrir einu sinni fyrir hverja vefsíðu.
 
@@ -53,45 +53,30 @@ vendihnapp hefur engin áhrif.
 
 Tög mega ekki víxlast, því þá virka skipanir ekki rétt.
 
+### Fyrisagnir <h1> til <h6>
 
-# Nokkur html tög fyrir texta.
-
-**<br>**
-
-<br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn). Ekki
-er æskilegt að nota <br> nema í nauðsyn.
-
-**<p>**
-
-<p> tagið stendur fyrir málsgrein (paragraph). Í vöfrum er sjálfgefið að <p> er með 1 autt
+Í HTML staðlinum er boðið upp á 6 tög fyrir fyrirsagnaletur, Sjálfgefið hafa tögin
+ákveðið hlutfall af leturstærð &lt;body> tagsins. Ef þú setur inn fyrisögn í skjal t.d. &lt;h2> þá
+verður undirfyrisögn að vera &lt;h3> , undirfyrsögn má ekki vera &lt;h4> (það má ekki hoppa
+yfir).
+* &lt;p> tagið stendur fyrir málsgrein (paragraph). Í vöfrum er sjálfgefið að <p> er með 1 autt
 línubil fyrir ofan og neðan málsgrein.
 
+* &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn).
+
 Dæmi:
-<p>Textinn sleginn inn á ógnarhraða, eru þið ekki annars góð í vélritun. Gleymdi mér
-aðeins, við erum hætt að nota ritvélar.<br>
-Ritvél er vélrænt tæki með lyklum notuð til að rita orð. Þegar maður slær á lykil er
-ritaður bókstafur á blaðsíðuna. </p>
-
-# Fyrisagnir <h1> - <h6>
-
-Í HTML ritun er okkur boðið upp á 6 tög fyrir fyrirsagnaletur, Sjálfgefið eru h1 til h6 tögin
-ákveðið hlutfall af leturstærð <body> tagsins. Ef þú setur inn fyrisögn í skjal t.d. <h2> þá
-verður undirfyrisögn að vera <h3> , undirfyrsögn má ekki vera <h4> (það má ekki hoppa
-yfir).
-
-Dæmi um notkun á fyrirsögn:
 
 ```HTML
 <!DOCTYPE HTML>
 <html>
 <head>
-<title> Fréttavefurinn <title>
-<meta charset="utf-8">
+    <meta charset="utf-8">
+    <title> Fréttavefurinn <title>
 </head>
 <body>
-<h1> Ísland óbyggilegt eftir 10 ár </h1>
-<h2>Þetta er undirfyrisögn </h2>
-<p>Þetta er dæmi um málsgrein ....</p>
+    <h1> Ísland óbyggilegt eftir 10 ár </h1>
+    <h2>Þetta er undirfyrisögn </h2>
+    <p>Þetta er dæmi um málsgrein ....</p>
 </body>
 </html>
 ```
