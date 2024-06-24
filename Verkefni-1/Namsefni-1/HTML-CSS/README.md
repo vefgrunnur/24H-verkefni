@@ -91,10 +91,6 @@ tengingin &lt;link> virki á milli þeirra.
 </html>
 ```
 
-#### GLÓSUR
-
-Hér eru dæmi um hvernig hægt er að stíla tög.
-
 Hvernig set ég mismunandi leturgerðir?
 
 ```CSS
@@ -185,7 +181,4 @@ Bjargir
 * [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/)
 
 
-
-#### Úreltar skipanir í HTML.
-
-Athugið að &lt;font>, &lt;center> ásamt fleiri tögum eru úrelt HTML 4 tög. Í dag eru tögin orðin að eigindum annara taga í CSS stílum.
+> Athugið að &lt;font> og &lt;center> ásamt fleiri tögum eru úrelt HTML 4 tög. Í dag eru tögin orðin að eigindum annara taga í CSS stílum.
