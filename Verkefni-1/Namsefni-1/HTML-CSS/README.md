@@ -45,9 +45,9 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
 ```HTML
     <html>
     <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <title>Víðvært letursnið</title>
-    <link href="styles.css" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet">
     </head>
 
 ```
@@ -63,10 +63,10 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
 
 > &lt;!-- --> gegnir sama hlutverki innan HTML skjals.
 
-### Sýnidæmi nr 1:
+### Sýnidæmi:
 
 Þessi tvö skjöl þurfa að vera í sömu möppu, style.css og index.html svo að
-linkurinn <link> virki á milli þeirra. Bæði skjölin eru unnin og vistuð með editor.
+tengingin &lt<;link> virki á milli þeirra.
 
 Í CSS skjali sem ég gef heitinu styles.css skrifa ég eftirfarandi stíl
 
@@ -90,10 +90,6 @@ linkurinn <link> virki á milli þeirra. Bæði skjölin eru unnin og vistuð me
     </body>
 </html>
 ```
-
-Úreltar skipanir í HTML.
-
-> Athugið að &lt;font>, &lt;center>, &lt;font> ásamt fleiri tögum eru úreltar HTML 4 skipanir. Í dag eru þessar skipanir orðnar að eigindum annara taga í CSS stílsniði.
 
 #### GLÓSUR
 
@@ -186,3 +182,6 @@ Hvernig móta ég útlit bókstafa(texta) (Hér er verið að nota class)?
 
 ```
 
+#### Úreltar skipanir í HTML.
+
+Athugið að &lt;font>, &lt;center> ásamt fleiri tögum eru úrelt HTML 4 tög. Í dag eru tögin orðin að eigindum annara taga í CSS stílum.
