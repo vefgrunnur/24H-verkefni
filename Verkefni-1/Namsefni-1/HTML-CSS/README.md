@@ -34,11 +34,7 @@ Hjúpaðir stílar hafa forgang yfir staðbundna stíla og staðbundnir stílar 
 
 * Vafrinn les inn í vinnsluminni tölvunnar fyrst það sem tengist síðunni ss myndir og stílsnið, síðan koma skipanir úr &lt;head> hlutanum ofaná og síðast uppsetningin sem sett er inní &lt;body> tagið ofaná allt saman.
 
-Við munum nánast eingöngu tengja stílsíðu við vefsíður, &lt;link> (Víðvært/Global). Hinar aðferðirnar eigum við að forðast að nota (sjá nánari lýsingu á þeim hér aftast).
-
-Skoðum aðeins Víðværu leiðina aðeins betur!
-
-### Víðvært (global)
+### Víðvær tenging (_global_)
 
 Styrkur stílsíðna felast í því að geta búið til stíla í sérskjali sem síðan er tengd við hverja þá HTML síðu sem setja skal undir sama útlit eða uppsetningu. Varla þarf að fjölyrða um hve öflugt þetta er og nægir að nefna samþætt útlit vefsvæðis. Ef breyta á einhverju þarf ekki að fara á hverja síðu fyrir sig heldur er nóg að breyta stílum í stílsíðunni. Til að nota víðværa stílsíðu þá þarf að vista það með endingunni **.css**
 
@@ -51,34 +47,28 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
     <head>
     <meta charset="utf-8" />
     <title>Víðvært letursnið</title>
-    <link href="stilsida.css" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet" />
     </head>
 
 ```
 
-
-**href=”stilsida.css”** er slóðin að skjalinu stilsida.css (hafið HTML og CSS skjalið í sömu möppu). Í skjalinu stilsida.css koma þá stílarnir sem við notum:
+**href=”styles.css”** er slóðin að skjalinu styles.css (hafið HTML og CSS skjalið í sömu möppu). Í skjalinu styles.css koma þá stílarnir sem við notum:
 
 ```CSS
     h1 { color:red; } /*allar fyrirsagnir <h1> í öllum HTML skjölum 
                         eru í rauðum lit */
 ```
-```
-/* */ afmarkar athugasemdir í CSS skjali. Sá texti sem settur er á milli /* */ birtist ekki á vefsíðu. Þetta gerir hönnuði mögulegt að punkta hjá sér skýringar eða taka út hluta kóðans. 
 
-&lt;!-- --> gegnir sama hlutverki innan HTML skjals.
-```
+> /* */ afmarkar athugasemdir í CSS skjali. Sá texti sem settur er á milli /* */ birtist ekki á vefsíðu. Þetta gerir hönnuði mögulegt að punkta hjá sér skýringar eða taka út hluta kóðans. 
 
-
-
+> &lt;!-- --> gegnir sama hlutverki innan HTML skjals.
 
 ### Sýnidæmi nr 1:
 
 Þessi tvö skjöl þurfa að vera í sömu möppu, style.css og index.html svo að
 linkurinn <link> virki á milli þeirra. Bæði skjölin eru unnin og vistuð með editor.
 
-Í CSS skjali sem ég gef heitinu styles.css skrifa ég eftirfarandi stílsnið(ekkert annað,
-ekkert HTML):
+Í CSS skjali sem ég gef heitinu styles.css skrifa ég eftirfarandi stíl
 
 ```CSS
   p {color:red;} /* Allar málsgreinar <p> eru með rauðan texta*/
@@ -100,12 +90,6 @@ ekkert HTML):
     </body>
 </html>
 ```
-
-### Class og id
-
-Ein aðferð við að bæta við stílum umfram þá sem eru sjálfgefnir eins og HTML tög
-býður uppá er að nota class og id (nánar um id síðar). Sjá nánar:
-[http://www.w3schools.com/css/css_id_class.asp](http://www.w3schools.com/css/css_id_class.asp)
 
 Úreltar skipanir í HTML.
 
