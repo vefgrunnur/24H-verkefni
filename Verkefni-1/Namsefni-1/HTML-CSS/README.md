@@ -66,7 +66,7 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
 ### Sýnidæmi:
 
 Þessi tvö skjöl þurfa að vera í sömu möppu, style.css og index.html svo að
-tengingin &lt<;link> virki á milli þeirra.
+tengingin &lt;link> virki á milli þeirra.
 
 Í CSS skjali sem ég gef heitinu styles.css skrifa ég eftirfarandi stíl
 
@@ -98,40 +98,38 @@ Hér eru dæmi um hvernig hægt er að stíla tög.
 Hvernig set ég mismunandi leturgerðir?
 
 ```CSS
-    h3 {font-family:times}
-    p {font-family:courier}
-    p.sansserif {font-family:sans-serif}
+    body {font-family: sans-serif}
+    h3 {font-family: courier}
+    .serif {font-family: serif}
 ```
 
 ```HTML
 <body>
-    <h3>Fyrirsögn, stærð 3</h3>
-    <p>Malsgrein</p>
-    <p class="sansserif">Önnur malsgrein</p>
+    <h1>Allt letur í vefsíðunni er sans-serif</h1>
+    <h3>Millifyrirsögn í Courier</h3>
+    <p>Málsgrein</p>
+    <p class="serif">Önnur málsgrein með serif leturgerð</p>
 </body>
 ```
 Hvernig ákvarða ég stærð leturs?
 
 ```CSS
-    h1 {font-size: 1 6px}
+    h1 {font-size: 2rem}
     h2 {font-size:130%}
-    p {font-size:0.875em}
+    p {font-size:16px}
 ```
 
 Hvernig móta ég útlit leturs?
 
 ```CSS
     h1 {font-style:italic}
-```
-
-```CSS
     h2 {font-style:normal}
     p {font-style:oblique}
 ```
 Hvernig set ég bil milli stafa?
 
 ```CSS
-    h1 {letter-spacing:-3px}
+    h1 {letter-spacing:3px}
     h4 {letter-spacing:0.5em}
 ```
 Hvernig ákvarða ég þykkt leturs?
@@ -171,9 +169,9 @@ Hvernig meðhöndla ég texta á mismunandi vegu?
 Hvernig dreg ég inn texta?
 
 ```CSS
-    p {text-indent:2em}
+    p {text-indent:2rem}
 ```
-Hvernig móta ég útlit bókstafa(texta) (Hér er verið að nota class)?
+Hvernig móta ég útlit bókstafa (texta)?
 
 ```CSS
     p {text-transform:uppercase}
@@ -181,6 +179,12 @@ Hvernig móta ég útlit bókstafa(texta) (Hér er verið að nota class)?
     p {text-transform:capitalize}
 
 ```
+
+Bjargir
+
+* [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/)
+
+
 
 #### Úreltar skipanir í HTML.
 
