@@ -1,0 +1,77 @@
+/* Rétt hlutfall youtube > iframe  (.gluggi) 
+
+   óskuð breidd deilt í upphaflega breidd = n% 
+
+   til að finna rétta hæð : n%  * upphafleg hæð 
+*/
+
+/* 20em = 320px*/
+.gluggi {
+    width:100%;
+    height:10.5em; /*168px;*/ 
+    margin: auto;
+  }
+
+@media screen and (min-width: 25em) {
+    .gluggi {
+      width:100%;
+      height:13em; /*207px;*/ 
+    }
+ }
+
+@media screen and (min-width: 30em) {
+    .gluggi {
+     width:100%;
+     height:15.75em; /*252px;*/ 
+   }
+ }
+
+@media screen and (min-width: 37.5em) {
+    .gluggi {
+      width:100%;
+      height:19.7em; /*315px;*/
+    }
+ }
+
+ @media screen and (min-width:48em){
+  .gluggi {
+    width:46em; /*736px;*/ 
+    height:24.6em; /*414px;*/ 
+  }
+}
+@media screen and (min-width:60em){
+  .gluggi {
+    width:58em; /*950px;*/ 
+    height:33em; /*534px;*/ 
+  }
+}
+@media screen and (min-width: 80em) {
+    .gluggi { 
+      width:78em; /*1248px;*/ 
+      height:44em; /*~702px;*/ 
+    }
+  } 
+
+
+/* google kort */
+
+@media screen and (min-width: 30em) {
+    .kort {
+     width:100%;    
+     height:15.75em; /*252px;*/ 
+   }
+ }
+
+@media screen and (min-width: 37.5em) {
+    .kort {
+      width:100%;     /* 560px */
+      height:19.7em; /*315px; */
+    }
+ }
+
+ @media screen and (min-width:48em){
+  .kort {
+    width:100%;     /* ca 800px */
+    height:28.2em; /*451,2px;*/ 
+  }
+}
