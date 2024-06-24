@@ -4,9 +4,7 @@
 
 Þegar svo gervöll heimsbyggðin komst upp á lagið með notkun netsins og raunverulegir möguleikar þess fóru að koma í ljós þá varð mjög snemma ljóst að HTML staðallinn dygði bara ekki til að mæta auknum útlitskröfum.
 
-Stílsnið (Cascading Style Sheets) eru sérstök snið sem notuð eru til að skilgreina umbrot og útlit HTML síðna. Stílsnið henta vel til að greina á milli innihalds (HTML) og útlits (CSS). Aðskilnaður innihalds og útlits HTML var boðaður af W3C.
-
-Útlitshönnun HTML síðna tekur á sig alveg nýjar víddir og möguleikar á skapandi vinnu stóraukast við notkun stíla við vefsíðugerð.
+Stílsíður (Cascading Style Sheets) innihalda sérstök snið sem notuð eru til að skilgreina umbrot og útlit HTML síðna. Stílsíður henta vel til að greina á milli innihalds (HTML) og útlits (CSS).Útlitshönnun HTML síðna tekur á sig alveg nýjar víddir og möguleikar á skapandi vinnu stóraukast við notkun stíla við vefsíðugerð.
 
 * Mun auðveldara er að uppfæra útlit yfir heilt vefsvæði þar sem öllum
 útlitstengdum reglum er haldið til haga í einu eða fáum skjölum.
