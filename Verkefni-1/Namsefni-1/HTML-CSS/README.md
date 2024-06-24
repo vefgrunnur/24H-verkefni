@@ -1,3 +1,176 @@
+# HTML staðallinn
+
+HTML (_HyperText Markup Language_) er ívafsmál notað til þess að sníða stiklutexta. Það
+inniheldur fjöldann allan af svonefndum tögum (_tags_) sem eru notuð til að merkja á rökréttan
+hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er.
+
+## Þekkja má HTML tög á því að þau byrja öll á < og enda á > tákninu.
+
+Allar vefsíður byrja á < **html** > og enda á </ **html** > taginu. Munurinn á opnunartaginu og
+lokunartaginu er skástrikið **/**. Hvert tag hefur svo að sjálfsögðu sitt ákveðna hlutverk í
+uppsetningunni. Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á
+vefsíðunni [http://www.w3schools.com/html5/html5_reference.asp](http://www.w3schools.com/html5/html5_reference.asp)
+
+Hér er sýnidæmi um afar einfalda vefsíðu:
+
+Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í ljós HTML kóði vefsíðunnar.
+
+```HTML
+<!DOCTYPE HTML>
+<html lang="is">
+<head>
+    <meta charset="utf-8" >
+    <title> Fyrsta vefsíðan mín </title>
+</head>
+<body>
+    <h1>Halló heimur!</h1>
+</body>
+</html>
+
+```
+* _<!DOCTYPE HTML>_
+    * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn.
+* Utan um allt efni vefsíðunnar er <html> </html>.
+* <head>
+    * Allt sem er sett á milli <head> og </head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli <head> taga t.d. javascript skriftur fara í <script> tagið og vísanir í tengd skjöl fara í <link> tagið.
+* <title>
+    * <title> birtir texta efst í gluggaröndinni í vefskoðaranum og einnig í eftirlæti ef síðan er valin af notanda.
+* <meta>
+    * Stafasettið charset=“utf-8" er notað m.a. fyrir íslenska stafi.
+* <body> 
+    * Allt efni sem birtist í vafra fer á milli <body> og </body> tagsins. Hér á milli eru einnig flest önnur HTML tög skrifuð.
+
+Þegar maður byrjar að skrifa HTML kóða fyrir vefsíðu þá er gott er að sjá fyrir sér
+mannslíkamann sem skiptist í höfuð <head> og bol <body>. Öll ofangreind tög í sýnidæminu
+eru nauðsynleg og mynda beinagrind vefsíðunnar. Athugaðu að það þessi tög eiga og mega
+aðeins koma fyrir einu sinni fyrir hverja vefsíðu.
+
+Æskilegur ritháttur er að nota eingögnu lágstafi í tögum: <body> texti </body>. Einnig er
+þarft að hafa tög inndregin þegar tög eru fléttuð inn í önnur tög, það auðveldar yfirlestur
+kóðans. Autt bil verður mest aðeins eitt stafabil í vafra, það hefur engin sjónræn áhrif í vafra
+ef það er mikið bil á milli taga eða texta. Að ýta nokkrum sinnum um á bilstöng eða
+vendihnapp hefur engin áhrif.
+
+Tög mega ekki víxlast, því þá virka skipanir ekki rétt.
+
+
+# Nokkur html tög fyrir texta.
+
+**<br>**
+
+<br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn). Ekki
+er æskilegt að nota <br> nema í nauðsyn.
+
+**<p>**
+
+<p> tagið stendur fyrir málsgrein (paragraph). Í vöfrum er sjálfgefið að <p> er með 1 autt
+línubil fyrir ofan og neðan málsgrein.
+
+Dæmi:
+<p>Textinn sleginn inn á ógnarhraða, eru þið ekki annars góð í vélritun. Gleymdi mér
+aðeins, við erum hætt að nota ritvélar.<br>
+Ritvél er vélrænt tæki með lyklum notuð til að rita orð. Þegar maður slær á lykil er
+ritaður bókstafur á blaðsíðuna. </p>
+
+# Fyrisagnir <h1> - <h6>
+
+Í HTML ritun er okkur boðið upp á 6 tög fyrir fyrirsagnaletur, Sjálfgefið eru h1 til h6 tögin
+ákveðið hlutfall af leturstærð <body> tagsins. Ef þú setur inn fyrisögn í skjal t.d. <h2> þá
+verður undirfyrisögn að vera <h3> , undirfyrsögn má ekki vera <h4> (það má ekki hoppa
+yfir).
+
+Dæmi um notkun á fyrirsögn:
+
+```HTML
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Fréttavefurinn <title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1> Ísland óbyggilegt eftir 10 ár </h1>
+<h2>Þetta er undirfyrisögn </h2>
+<p>Þetta er dæmi um málsgrein ....</p>
+</body>
+</html>
+```
+**<sub> og <sup>**
+
+<sup> tagið fær textann til að birtast ofan við miðlínu og <sub> fyrir neðan. Dæmi:
+
+```
+<p> Þetta tag fær textann til <sup> að birtast ofan við </sup> miðlínu </p>
+```
+```
+<p><sub>Þetta tag fær textann til birtast neðan við miðlínu</sub> </p>
+```
+
+**<strong>** (^) Texti með áherslu (feitletraður)
+**<em>** (^) Skáletraður texti.
+**<hr>** (^) Býr til línu
+
+# Upptaling í lista <ul>
+
+Til að búa til lista upptalningu þá þarf að nota samvinnu tveggja taga, <ul> og <li> <ul>
+stendur fyrir “unordered list” eða óraðaðann lista, <li> stendur fyrir “list item” eða lista
+eintak.
+
+Dæmi:
+
+< **body** >
+< **ul** >
+< **li** > Janúar < **/li** >
+< **li** > Febrúar < **/li** >
+< **li** > Mars < **/li** >
+< **li** > Apríl < **/li** >
+< **li** > Maí < **/li** >
+< **/ul** >
+< **/body** >
+
+Ef þið prófið þetta dæmi sjáið þið að hvert atriði í listanum fær ● (depill) fyrir framan sig. Það
+er sjálfgefið tákn.
+
+# Númeraður listi <ol>
+
+Einnig er hægt að fá númeraða röð, þá notum við <ol> eða “ordered list”, raðaður listi, þá
+koma númerin 1, 2, 3 og áfram hækkandi niður listann <li>.
+
+Dæmi:
+
+< **body** >
+< **ol** >
+< **li** > Janúar < **/li** >
+< **li** > Febrúar < **/li** >
+< **li** > Mars < **/li** >
+< **li** > Apríl < **/li** >
+< **li** > Maí < **/li** >
+< **/ol** >
+< **/body** >
+
+
+# Sértákn.
+
+Sumir stafir og tákn eru frátekin í HTML og þá þarf að rita þau á annan hátt í kóðanum. Það
+er t.d. ekki hægt að nota < (minna) eða > (meira) táknin í texta þar sem vafrarinn mun rugla
+þeim saman við html tögin. Einnig ætti heldur ekki að nota merkið og önnur merki beint á
+síðu (betra fyrir leitarvélar).
+
+```
+< er ritað &lt;
+> er ritað &gt;
+autt bil er ritað &nbsp;
+er ritað^ &copy;^
+Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
+```
+## Að búa til og vista fyrstu vefsíðuna.
+
+Vistið skjalið með endingunni .html til að hægt sé að opna það í vafrara (browser).
+
+Þú skoðar html síðuna með því einfaldlega að smella á html skjalið þar sem þú vistaðir það.
+
+---
+
 ## Stílsíða - _Cascading style sheet_ (CSS)
 
 Þegar HTML staðalinn var hannaður tók hann mestmegnis til þess að hægt væri að deila textaskjölum milli nettengdra tölva. Frumnotendur voru vísindamenn sem þurftu að geta deilt með sér þekkingu. Blessaða mennina óraði ekki fyrir framhaldinu ☺.
