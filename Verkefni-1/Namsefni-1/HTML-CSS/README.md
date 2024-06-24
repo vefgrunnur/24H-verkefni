@@ -93,7 +93,7 @@ tengingin &lt<;link> virki á milli þeirra.
 
 #### GLÓSUR
 
-Skoðum nú ýmislegt sem oft er spurt um, hvernig geri ég hitt og þetta í stílsniði?
+Hér eru dæmi um hvernig hægt er að stíla tög.
 
 Hvernig set ég mismunandi leturgerðir?
 
