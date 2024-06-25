@@ -78,6 +78,5 @@ div {
 
 #### Yfirlit
 
-* [Verkefnalýsing 2](../../)
-* [Námsefni 2](../)
+* [Verkefnalýsing 2](../)
 * [Tenglar (links)](tenglar.md)

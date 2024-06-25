@@ -50,6 +50,5 @@ Best er að brjóta þetta niður í eftirfarandi einingar:
 
 #### Yfirlit
 
-* [Verkefnalýsing 2](../../)
-* [Námsefni 2](../)
+* [Verkefnalýsing 2](../)
 * [Box módelið](README.md)
