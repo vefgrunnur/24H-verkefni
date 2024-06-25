@@ -181,6 +181,8 @@ er t.d. ekki hægt að nota `<` (minna) eða `>` (meira) táknin í texta þar s
 - sértáknið &copy; er ritað `&copy;`
 - &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu.
 
+> Athugið að &lt;font> og &lt;center> ásamt fleiri tögum eru úrelt HTML 4 tög. Í dag eru tögin orðin að eigindum annara taga í CSS stílum.
+
 Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
 ---

@@ -186,5 +186,3 @@ Hvernig móta ég útlit bókstafa (texta)?
 * [Litir í vefsíðu](litir.md)
 * [tenglar í vefsíðu](tenglar.md)
 * [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/css)
-
-> Athugið að &lt;font> og &lt;center> ásamt fleiri tögum eru úrelt HTML 4 tög. Í dag eru tögin orðin að eigindum annara taga í CSS stílum.
