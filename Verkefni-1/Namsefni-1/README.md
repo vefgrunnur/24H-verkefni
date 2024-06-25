@@ -34,6 +34,7 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
 -   Þú skoðar html síðuna í vafra með því að smella á html skjalið þar
     sem þú vistaðir það.
 
+* [Sjá nánari umfjöllun](HTML-CSS/README.md)
 ________________________________________________________
 
 # CSS stílsetning
@@ -54,8 +55,6 @@ Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikomm
 
 Margar CSS skipanir eru aðgreindar með semikommum og þær eru umvafðar með slaufusviga.
 
-
-
 Dæmi:
 
 ```CSS
@@ -75,3 +74,10 @@ Dæmi:
     <link rel="stylesheet" type="text/css" href="styles.css">
 
 ```
+
+### Bjargir
+
+* [Verkefnalýsing 1](../../)
+* [Námsefni 1](../)
+* [HTML, sjá nánari umfjöllun](README.md)
+* [CSS, sjá nánari umfjöllun](stylesheet.md)
