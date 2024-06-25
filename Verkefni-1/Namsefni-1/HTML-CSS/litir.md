@@ -11,8 +11,7 @@ h2 { color: #dda0dd; } /* Hexadecimal tölur fyrir R=dd, G=a0, B=dd */
 h3 { color: rgb(20,100,255); /* rgb er skilgreiningin sem mælt er með að nota í dag */ }
 ```
 Á meðan tölvuskjáir gátu aðeins birt 256 liti þá höfðu menn fyrir því að skilgreina þá alla
-með nafni ss: red, green, blue, yellow, white, black og marga fleiri. Þeir eru kallaðir
-_„websafe“_ litir.
+með nafni. Þeir voru kallaðir _„websafe“_ litir.
 
 Dæmi: Aqua, gray, navy, silver, black, green, olive, teal, blue, lime, purple, white, fuchsia, -maroon, red, yellow.
 
