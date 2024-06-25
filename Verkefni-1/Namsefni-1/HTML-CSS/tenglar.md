@@ -14,3 +14,14 @@ með eftirfarandi hætti:
 Best er að brjóta þetta niður í eftirfarandi einingar:
 
 **a** er skipun. **href=** er eigindi og `https://www.tskoli.is` er gildið, textinn sem birtist á vefsíðu er <a href="https://www.tskoli.is"> Tækniskólinn</a>
+
+---
+
+### Bjargir
+
+* [Verkefnalýsing 1](../../)
+* [Námsefni 1](../)
+* [HTML](README.md)
+* [CSS](stylesheet.md)
+* [Litir í vefsíðu](litir.md)
+* [Yfirlit (_Cheat seets_)](https://cheatsheets.shecodes.io/)
