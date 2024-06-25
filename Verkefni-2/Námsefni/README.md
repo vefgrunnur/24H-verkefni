@@ -1,7 +1,3 @@
-<style type="text/css" rel="stylesheet">
-.red { color: red; }
-</style>
-
 # Box módelið
 
 ![box model](images/box-model.png)
@@ -25,10 +21,6 @@ Blokk eining byrjar alltaf á nýrri línu og tekur upp alla breidd sem til er (
 
 **&lt;span>** fellur td. inní textalínu. ekki hægt að setja gildi á bil (padding) ofan og neðan við (_top + bottom_) en virðir hliðarbil (_left + right_) 
 
-An inline element does not start on a new line <span class="red">Þetta er innbyggður &lt;span> þáttur inni í málsgrein.</span> and only takes up as much width as necessary.
-
-This is an inline &lt;span> element inside a paragraph.
-
 ```HTML
 
 <span> | <a> | <img> 
@@ -46,9 +38,7 @@ This is an inline &lt;span> element inside a paragraph.
 
 ```
 
-## Display: none;
-
-display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. 
+**display: none;** er almennt notað með JavaScript til að fela og sýna þætti án þess að eyða þeim og endurskapa þá.
 
 The &lt;script> element uses display: none; as default. 
 
@@ -63,9 +53,6 @@ Heimild:
 ## Flexbox
 
 * https://www.w3schools.com/css/css3_flexbox.asp
-
-
-
 
 
 #### Gildum hlaðið á eigindi 
