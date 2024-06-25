@@ -1,6 +1,6 @@
 # Flexbox
 
-Flexbox er einvíð () útlitshönnun (_e. one-dimensional layout model_) til að skipuleggja vefsíðuhluta. Flexbox býður upp fjölmarga jöfnunarmöguleika. Þegar við vinnum með flexbox þá erum við annað hvort að setja efni í röð eða í dálk (_e. row / column_). 
+Flexbox er einvíð útlitshönnun (_e. one-dimensional layout model_)  til að skipuleggja vefsíðuhluta. Flexbox býður upp fjölmarga jöfnunarmöguleika. Þegar við vinnum með flexbox þá erum við annað hvort að setja efni í röð eða í dálk (_e. row / column_). 
 
 Það er hægt að ákveða breidd efnis í röðum og jafna hæð efnis eftir ákveðnu skipulagi. 
 
