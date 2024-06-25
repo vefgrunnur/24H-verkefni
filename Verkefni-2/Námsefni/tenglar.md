@@ -8,7 +8,7 @@ Til að tengjast öðrum vefsíðum þurfum við að útbúa svokallaðan tengil
 með eftirfarandi hætti:
 
 ```HTML
-<a href="http://www.tskoli.is"> Tækniskólinn </a>
+<a href="https://www.tskoli.is"> Tækniskólinn </a>
 ```
 
 Best er að brjóta þetta niður í eftirfarandi einingar:
