@@ -13,5 +13,5 @@ með eftirfarandi hætti:
 
 Best er að brjóta þetta niður í eftirfarandi einingar:
 
-**a** er skipun. **href=** er eigindi og **“http://www.tskoli.is”** er gildið, 
-**Tækniskólinn** er textinn sem birtist á vefsíðunni, dæmi: <a href="http://www.tskoli.is"> Tækniskólinn</a>
+**a** er skipun. **href=** er eigindi og `https://www.tskoli.is` er gildið, 
+**Tækniskólinn** er textinn sem birtist á vefsíðunni, dæmi: <a href="https://www.tskoli.is"> Tækniskólinn</a>
