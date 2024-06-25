@@ -16,7 +16,7 @@ Nemendur geta:
 
 Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsagnarletur &lt;H1>. Stílaðu textann eins og sýnt er hér á myndinni
 
-![Css æfing](Námsefni/images/images/box-inheritance.JPG)
+![Css æfing](Námsefni/images/box-inheritance.JPG)
 
 > H1 - padding - border - margin
 
@@ -24,7 +24,7 @@ Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsag
 
 Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
-![display settings](Námsefni/images/images/display.JPG)
+![display settings](Námsefni/images/display.JPG)
 
 
 ### 2.2 CSS "_Float_" 
