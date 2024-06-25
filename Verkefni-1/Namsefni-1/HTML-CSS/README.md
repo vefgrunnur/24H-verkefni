@@ -90,10 +90,10 @@ Dæmi:
 </html>
 ```
 
-### Upptaling í lista &lg;ul>
+### Upptaling í lista &lt;ul>
 
-Til að búa til lista upptalningu þá þarf að nota samvinnu tveggja taga, &lg;ul> og &lg;li> &lg;ul>
-stendur fyrir “unordered list” eða óraðaðann lista, &lg;li> stendur fyrir “list item” eða lista
+Til að búa til lista upptalningu þá þarf að nota samvinnu tveggja taga, &lt;ul> og &lt;li> &lt;ul>
+stendur fyrir “unordered list” eða óraðaðann lista, &lt;li> stendur fyrir “list item” eða lista
 eintak.
 
 #### Ónúmeraður listi &lt;ul>
@@ -112,13 +112,11 @@ eintak.
 Ef þið prófið þetta dæmi sjáið þið að hvert atriði í listanum fær ● (depill) fyrir framan sig. Það
 er sjálfgefið tákn.
 
-    <ul>
-        <li> Janúar </li>
-        <li> Febrúar </li>
-        <li> Mars < /li>
-        <li> Apríl </li>
-        <li> Maí </li>
-    </ul >
+- janúar
+- febrúar
+- mars
+- apríl
+- maí
 
 #### Númeraður listi &lt;ol>
 
@@ -138,13 +136,11 @@ Dæmi:
     </ol >
 ```
 
-    <ol>
-        <li> Janúar </li>
-        <li> Febrúar </li>
-        <li> Mars < /li>
-        <li> Apríl </li>
-        <li> Maí </li>
-    </ol >
+1. janúar
+2. febrúar
+3. mars
+4. apríl
+5. maí
 
 ---
 
@@ -158,9 +154,10 @@ Til að leggja áherslu á innihald texta er HTML staðallinn með nokkur sért�
 ```
 
 - **&lt;strong>** Texti með áherslu (feitletraður)
-- **&lt;em>** Skáletraður texti.
+- **&lt;em>** Skáletraður texti
 - **&lt;sup>** tagið fær textann til að birtast <sup>ofan við miðlínu<sub> 
-- **&lt;sub>** fær textann til <sub>að birtast neðan við</sub> miðlínu </p>
+- **&lt;sub>** fær textann til <sub>að birtast neðan við</sub> miðlínu 
+- **&lt;blockqoute>** er notað utanum texta sem er vitnað í
 - **&lt;hr>** Býr til línu
 
 ---
