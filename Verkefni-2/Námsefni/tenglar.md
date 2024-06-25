@@ -52,3 +52,7 @@ Best er að brjóta þetta niður í eftirfarandi einingar:
 
 * [Verkefnalýsing 2](../)
 * [Box módelið](README.md)
+
+#### Lesefni
+
+* https://bok.vefforritun.is/04.element

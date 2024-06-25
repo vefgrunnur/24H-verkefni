@@ -40,17 +40,17 @@ Blokk eining byrjar alltaf á nýrri línu og tekur upp alla breidd sem til er (
 
 **display: none;** er almennt notað með JavaScript til að fela og sýna þætti án þess að eyða þeim og endurskapa þá.
 
-The &lt;script> element uses display: none; as default. 
+**&lt;head> og &lt;script>** tögin eru sjálfgefið með "display: none;"
 
-Heimild: 
+Bjargir: 
 * https://www.w3schools.com/css/css_boxmodel.asp
 * https://www.w3schools.com/cssref/pr_class_display.asp
 
-## Float
+### Float
 
 * https://www.w3schools.com/cssref/pr_class_float.php
 
-## Flexbox
+### Flexbox
 
 * https://www.w3schools.com/css/css3_flexbox.asp
 
@@ -80,3 +80,7 @@ div {
 
 * [Verkefnalýsing 2](../)
 * [Tenglar (links)](tenglar.md)
+
+#### Lesefni
+
+* https://bok.vefforritun.is/04.element

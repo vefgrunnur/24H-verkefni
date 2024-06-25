@@ -78,3 +78,5 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 > Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
+
+#### [Námsefni 2](Námsefni/README.md)
