@@ -22,7 +22,7 @@ til að túlka tölur. Kerfið nefnist sextándakerfi á íslensku. Þessi “t�
 ```
 (lægsta gildi) 0 1 2 3 4 5 6 7 8 9 A B C D E F (hæsta gildi)
 ```
-#RRGGBB er 16 tölu kerfi. Með lægsta gildi 0 og hæsta gildi F
+**#**, _hash_ táknið verður að standa fyrir frama tölugildið til að vafrinn lesi kóðann rétt
 
 - #FFFFFF = Hvítur
 - #000000 = Svartur
@@ -30,16 +30,18 @@ til að túlka tölur. Kerfið nefnist sextándakerfi á íslensku. Þessi “t�
 - #00FF00 = Grænn
 - #0000FF = Blár
 
-Miklu máli skiptir að gleyma ekki að setja # (shift+3) fyrir framan talnarununa ef við
-kjósum að skilgreina liti með sextándakerfinu, Það er hægt að stytta tölugildin 6 í 3 ef
-tölurnar tvær sem skilgreina R, G og B eru þær sömu
+Það er hægt að stytta tölugildin 6 í 3 ef tölurnar tvær sem skilgreina R, G og B eru þær sömu
 
-- #FF 0000 = #F 00 = Rauður
-- #00FF 00 = #0F 0 = Grænn
+- #FF0000 = #F00 = Rauður
+- #00FF00 = #0F0 = Grænn
 - #0000FF = #00F= Blár
 
 **RGB** litir samanstanda af öllum þeim litbrigðum sem tölvuskjár getur sýnt og augað
-nemur.
+nemur. Ljósmagnið er mælt frá 0 upp í 255.
+
+- rgb(0,0,0) = svart
+- rgb(127,127,127) = grátt
+- rgb(255,255,255) = hvítt
 
 Sjá nánar á: [http://www.w3schools.com/css/css_colors.asp](http://www.w3schools.com/css/css_colors.asp)
 
