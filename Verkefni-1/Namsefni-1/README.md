@@ -80,3 +80,4 @@ Dæmi:
 * [Verkefnalýsing 1](../)
 * [HTML, sjá nánari umfjöllun](HTML-CSS/README.md)
 * [CSS, sjá nánari umfjöllun](HTML-CSS/stylesheet.md)
+* [Vefforitun bók, kafli 4](https://bok.vefforritun.is/04.element)
