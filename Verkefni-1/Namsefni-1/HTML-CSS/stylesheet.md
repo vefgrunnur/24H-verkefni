@@ -184,5 +184,4 @@ Hvernig móta ég útlit bókstafa (texta)?
 * [Námsefni 1](../)
 * [HTML, sjá nánari umfjöllun](README.md)
 * [Litir í vefsíðu](litir.md)
-* [tenglar í vefsíðu](tenglar.md)
 * [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/css)

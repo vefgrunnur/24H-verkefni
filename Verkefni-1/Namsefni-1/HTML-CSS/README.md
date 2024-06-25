@@ -201,5 +201,4 @@ Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan a
 * [Námsefni 1](../)
 * [CSS, sjá nánari umfjöllun](stylesheet.md)
 * [Litir í vefsíðu](litir.md)
-* [tenglar í vefsíðu](tenglar.md)
 * [Yfirlit yfir HTML skipanir (_HTML Cheat seets_)](https://cheatsheets.shecodes.io/html)

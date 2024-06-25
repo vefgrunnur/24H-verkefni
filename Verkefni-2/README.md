@@ -60,9 +60,6 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
   a:link, a:visited, a:hover, a:active 
 
 ```
-![hulduklasar](Námsefni/v2.4.jpg)
-
-Það eiga að vera aðrir stílar á ` footer a ` 
 
 ### Námsmat
 

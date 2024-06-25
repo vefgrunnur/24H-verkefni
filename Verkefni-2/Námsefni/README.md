@@ -1,33 +1,68 @@
-## Vefsíður tengdar saman \<a\> 
+# Box módelið
+
+![box model](images/box-model.png)
+
+Útskýring:
+
+- Innihald - Innihald kassans, þar sem texti og myndir birtast
+- Padding - Autt svæði í kringum innihald. Bilið er gegnsætt
+- Border - Rammi utanum bil og innihald
+- Margin - Spássía utan rammans, spássían er gegnsæ
+
+## Block-level Elements
+
+Blokk eining byrjar alltaf á nýrri línu og tekur upp alla breidd sem til er (100% breidd).
 
 ```HTML
-    <a href="sida2.html" title="Síða 2">Síða 2</a>
+<h1> - <h6> | <p> | <header>| <main> | <aside> | <article>  | <footer> | <form> | <section> | <div>
 ```
-#### Hulduklasar  _Pseudo-classes_
+
+## Inline Elements
+
+**&lt;span>** fellur td. inní textalínu. ekki hægt að setja gildi á bil (padding) ofan og neðan við (_top + bottom_) en virðir hliðarbil (_left + right_) 
+
+An inline element does not start on a new line <span style="color:red">Þetta er innbyggður &lt;span> þáttur inni í málsgrein.</span> and only takes up as much width as necessary.
+
+This is an inline &lt;span> element inside a paragraph.
+
+```HTML
+
+<span> | <a> | <img> 
+
+```
+
+## Display eigindið
 
 ```CSS
-    /* unvisited link */
-    a:link {
-        color: #FF0000;
-    }
 
-    /* visited link */
-    a:visited {
-        color: #00FF00;
-    }
+.daemi1 {display: none;}
+.daemi2 {display: inline;}
+.daemi3 {display: block;}
+.daemi4 {display: inline-block;}
 
-    /* mouse over link */
-    a:hover {
-        color: #FF00FF;
-    }
-
-    /* selected link */
-    a:active {
-        color: #0000FF;
-    }
 ```
 
-[Sjá nánar á w3schools](https://www.w3schools.com/css/css_pseudo_classes.asp)
+## Display: none;
+
+display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. 
+
+The &lt;script> element uses display: none; as default. 
+
+Heimild: 
+* https://www.w3schools.com/css/css_boxmodel.asp
+* https://www.w3schools.com/cssref/pr_class_display.asp
+
+## Float
+
+* https://www.w3schools.com/cssref/pr_class_float.php
+
+## Flexbox
+
+* https://www.w3schools.com/css/css3_flexbox.asp
+
+
+
+
 
 #### Gildum hlaðið á eigindi 
 
