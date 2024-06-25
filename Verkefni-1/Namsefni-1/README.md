@@ -77,7 +77,6 @@ Dæmi:
 
 ### Bjargir
 
-* [Verkefnalýsing 1](../../)
-* [Námsefni 1](../)
-* [HTML, sjá nánari umfjöllun](README.md)
-* [CSS, sjá nánari umfjöllun](stylesheet.md)
+* [Verkefnalýsing 1](../)
+* [HTML, sjá nánari umfjöllun](HTML-CSS/README.md)
+* [CSS, sjá nánari umfjöllun](HTML-CSS/stylesheet.md)

@@ -45,9 +45,9 @@ Til að geta notað stílana í CSS skjalinu þá þurfum við að setja &lt;lin
 ```HTML
     <html>
     <head>
-    <meta charset="utf-8">
-    <title>Víðvært letursnið</title>
-    <link href="styles.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <title>Víðvær (e. global) tenging</title>
+        <link href="styles.css" rel="stylesheet">
     </head>
 
 ```
