@@ -55,4 +55,4 @@ Best er að brjóta þetta niður í eftirfarandi einingar:
 
 #### Lesefni
 
-* https://bok.vefforritun.is/04.element
+* https://bok.vefforritun.is/04.element#4.6.1

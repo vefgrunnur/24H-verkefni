@@ -83,4 +83,5 @@ div {
 
 #### Lesefni
 
-* https://bok.vefforritun.is/04.element
+* [Vefforitun bók, Box módelið, kafli 11](https://bok.vefforritun.is/11.css-box-model)
+* [Vefforitun bók, kafli 4](https://bok.vefforritun.is/04.element)
