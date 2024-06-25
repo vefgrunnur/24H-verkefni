@@ -29,20 +29,20 @@ vefnum [https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 ```
 
 * _&lt;!DOCTYPE HTML>_
-    * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn.
-* Utan um allt efni vefsíðunnar er &lt;html> &lt;/html>.
+    * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn
+* Utan um allt efni vefsíðunnar er &lt;html> &lt;/html>
 * &lt;head>
-    * Allt sem er sett á milli &lt;head> og &lt;/head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli &lt;head> taga t.d. javascript skriftur fara í &lt;script> tagið og vísanir í tengd skjöl fara í &lt;link> tagið.
+    * Allt sem er sett á milli &lt;head> og &lt;/head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli &lt;head> taga t.d. javascript skriftur fara í &lt;script> tagið og vísanir í tengd skjöl fara í &lt;link> tagið
 * &lt;title>
-    * &lt;title> birtir texta efst í gluggaröndinni í vefskoðaranum og einnig í eftirlæti ef síðan er valin af notanda.
+    * &lt;title> birtir texta efst í flipa í vefskoðaranum og einnig í eftirlæti ef síðan er valin af notanda
 * &lt;meta>
-    * Stafasettið charset=“utf-8" er notað m.a. fyrir íslenska stafi.
+    * Stafasettið charset=“utf-8" er notað m.a. fyrir íslenska stafi
 * &lt;body> 
-    * Allt efni sem birtist í vafra fer á milli &lt;body> og &lt;/body> tagsins. Hér á milli eru einnig flest önnur HTML tög skrifuð.
+    * Allt efni sem birtist í vafra fer á milli &lt;body> og &lt;/body> tagsins. Hér á milli eru einnig flest önnur HTML tög skrifuð
 
 Þegar maður byrjar að skrifa HTML kóða fyrir vefsíðu þá er gott er að sjá fyrir sér
 mannslíkamann sem skiptist í höfuð &lt;head> og bol &lt;body>. Öll ofangreind tög í sýnidæminu
-eru nauðsynleg og mynda beinagrind vefsíðunnar. 
+eru nauðsynleg og mynda beinagrind vefsíðunnar.
 
 > Athugaðu að ofangreind tög eiga og mega aðeins koma fyrir **einu sinni** í vefsíðu.
 
@@ -65,9 +65,9 @@ vendihnapp hefur engin áhrif.
 
 #### Áherslutexti
 
-##### Undirtexti
+##### Feitletrað meginmál
 
-###### ólæsilegur texti ?
+###### Undirmálstexti
 
 
 Body er sjálfgefið 1em eða 16px stærð (_user agent_).
