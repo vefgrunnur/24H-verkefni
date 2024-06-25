@@ -54,9 +54,24 @@ vendihnapp hefur engin áhrif.
 ### Fyrisagnir &lt;h1> til &lt;h6>
 
 Í HTML staðlinum er boðið upp á 7 leturtög &lt;h1> til &lt;h6> og &lt;p>, Sjálfgefið hafa tögin
-ákveðnu hlutfalli af leturstærð &lt;body> tagsins. Body er sjálfgefið (_user agent_) 1em eða 16px.
+ákveðnu hlutfalli af leturstærð &lt;body> tagsins. 
 
-&lt;p> tagið stendur fyrir málsgrein (paragraph). Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin. Förum nánar í eiginleika taga í 2. verkefni.
+# h1 Fyrirsögn
+
+## Undirfyrirsögn
+
+### Millifyrirsögn
+
+#### Áherslutexti
+
+##### Undirtexti
+
+###### ólæsilegur texti ?
+
+
+Body er sjálfgefið 1em eða 16px stærð (_user agent_).
+
+**&lt;p>** tagið stendur fyrir málsgrein (paragraph). Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin. Förum nánar í eiginleika taga í 2. verkefni.
 
 Dæmi:
 
@@ -85,17 +100,25 @@ eintak.
 
 ```HTML
 
-<ul>
-<li> Janúar </li>
-<li> Febrúar </li>
-<li> Mars < /li>
-<li> Apríl </li>
-<li> Maí </li>
-</ul >
+    <ul>
+        <li> Janúar </li>
+        <li> Febrúar </li>
+        <li> Mars < /li>
+        <li> Apríl </li>
+        <li> Maí </li>
+    </ul >
 ```
 
 Ef þið prófið þetta dæmi sjáið þið að hvert atriði í listanum fær ● (depill) fyrir framan sig. Það
 er sjálfgefið tákn.
+
+    <ul>
+        <li> Janúar </li>
+        <li> Febrúar </li>
+        <li> Mars < /li>
+        <li> Apríl </li>
+        <li> Maí </li>
+    </ul >
 
 #### Númeraður listi &lt;ol>
 
@@ -106,14 +129,23 @@ Dæmi:
 
 ```HTML
 
-<ul>
-<li> Janúar </li>
-<li> Febrúar </li>
-<li> Mars < /li>
-<li> Apríl </li>
-<li> Maí </li>
-</ul >
+    <ol>
+        <li> Janúar </li>
+        <li> Febrúar </li>
+        <li> Mars < /li>
+        <li> Apríl </li>
+        <li> Maí </li>
+    </ol >
 ```
+
+    <ol>
+        <li> Janúar </li>
+        <li> Febrúar </li>
+        <li> Mars < /li>
+        <li> Apríl </li>
+        <li> Maí </li>
+    </ol >
+
 ---
 
 ### Textatög
@@ -128,7 +160,7 @@ Til að leggja áherslu á innihald texta er HTML staðallinn með nokkur sért�
 - **&lt;strong>** Texti með áherslu (feitletraður)
 - **&lt;em>** Skáletraður texti.
 - **&lt;sup>** tagið fær textann til að birtast <sup>ofan við miðlínu<sub> 
-- **&lt;sub> fær textann til <sub>að birtast neðan við</sub> miðlínu </p>
+- **&lt;sub>** fær textann til <sub>að birtast neðan við</sub> miðlínu </p>
 - **&lt;hr>** Býr til línu
 
 ---
@@ -139,9 +171,9 @@ Sumir stafir og tákn eru frátekin í HTML og þá þarf að rita þau á annan
 er t.d. ekki hægt að nota `<` (minna) eða `>` (meira) táknin í texta þar sem vafrarinn mun rugla
 þeim saman við html tögin. 
 
-- `<` er ritað &lt;
-- `>` er ritað &gt;
-- autt bil er ritað &nbsp;
+- **<** er ritað `&lt;`
+- **>** er ritað `&gt;`
+- auka bil er ritað &nbsp;
 - sértáknið &copy; er ritað `&copy;`
 - **&lt;hr>** Býr til línu
 - &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu.
@@ -152,7 +184,9 @@ Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
 ### Ritun
 
-Tög mega ekki víxlast, því þá virka skipanir ekki rétt.
+Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan annara taga kölluð "hreiðruð" (_e. nested_) tög. 
+
+> Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt.
 
 ---
 
