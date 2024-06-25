@@ -13,21 +13,21 @@ body {
 	color: darkblue;
 }
 /* Farsími lárétt, Mobile Horisontal */
-@media only screen and (min-width: 600px) {  /* skjáir (screen) sem eru stærri en 600px */
+@media only screen and (min-width: 37.5rem) {  /* skjáir (screen) sem eru stærri en 600px */
 	  body {
 		background-color: blue;
 		color:white;
 	  }
 } 
 /* spjaldtölva, tablet */
-@media only screen and (min-width: 768px) {  /* skjáir (screen) sem eru stærri en 768px */
+@media only screen and (min-width: 48rem) {  /* skjáir (screen) sem eru stærri en 768px */
 	  body {
-		background-color: lime;
-		color: black;
+		background-color: black;
+		color: lime;
 	  }
 }
 /* Fartölva, laptop */
-@media only screen and (min-width: 960px) {  /* skjáir (screen) sem eru stærri en 960px */
+@media only screen and (min-width: 60rem) {  /* skjáir (screen) sem eru stærri en 960px */
 	  body {
 		background-color: red;
 		color: yellow;
@@ -35,11 +35,10 @@ body {
 }
 
 /* Tölvuskjár, computer screen */
-@media only screen and (min-width: 1280px) {  /* skjáir (screen) sem eru stærri en 1280px */
+@media only screen and (min-width: 80rem) {  /* skjáir (screen) sem eru stærri en 1280px */
 	body {
-		max-width: 1280px;
-		margin: 0 auto;
-		border: 2px solid yellow;
+		max-width: 76rem; /* 4rem spássía */
+		margin: 0 auto;  /* efni body miðjusett */ 
 	}
 }
 
