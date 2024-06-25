@@ -44,4 +44,11 @@ nemur. Ljósmagnið er mælt frá 0 upp í 255.
 
 Sjá nánar á: [http://www.w3schools.com/css/css_colors.asp](http://www.w3schools.com/css/css_colors.asp)
 
+### Bjargir
 
+* [Verkefnalýsing 1](../../)
+* [Námsefni 1](../)
+* [HTML](README.md)
+* [CSS](stylesheet.md)
+* [tenglar í vefsíðu](tenglar.md)
+* [Yfirlit (_HTML Cheat seets_)](https://cheatsheets.shecodes.io/)
