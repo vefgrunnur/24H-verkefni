@@ -1,10 +1,14 @@
+<style type="text/css" rel="stylesheet">
+.red { color: red; }
+</style>
+
 # Box módelið
 
 ![box model](images/box-model.png)
 
 Útskýring:
 
-- Innihald - Innihald kassans, þar sem texti og myndir birtast
+- Content - Innihald kassans, þar sem texti og myndir birtast
 - Padding - Autt svæði í kringum innihald. Bilið er gegnsætt
 - Border - Rammi utanum bil og innihald
 - Margin - Spássía utan rammans, spássían er gegnsæ
@@ -21,7 +25,7 @@ Blokk eining byrjar alltaf á nýrri línu og tekur upp alla breidd sem til er (
 
 **&lt;span>** fellur td. inní textalínu. ekki hægt að setja gildi á bil (padding) ofan og neðan við (_top + bottom_) en virðir hliðarbil (_left + right_) 
 
-An inline element does not start on a new line <span style="color:red">Þetta er innbyggður &lt;span> þáttur inni í málsgrein.</span> and only takes up as much width as necessary.
+An inline element does not start on a new line <span class="red">Þetta er innbyggður &lt;span> þáttur inni í málsgrein.</span> and only takes up as much width as necessary.
 
 This is an inline &lt;span> element inside a paragraph.
 
