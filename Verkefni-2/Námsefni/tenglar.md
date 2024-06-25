@@ -48,11 +48,8 @@ Best er að brjóta þetta niður í eftirfarandi einingar:
 
 ![hulduklasar](images/v2.4.jpg)
 
-### Bjargir
+#### Yfirlit
 
-* [Verkefnalýsing 1](../../)
-* [Námsefni 1](../)
-* [HTML](README.md)
-* [CSS](stylesheet.md)
-* [Litir í vefsíðu](litir.md)
-* [Yfirlit (_Cheat seets_)](https://cheatsheets.shecodes.io/)
+* [Verkefnalýsing 2](../../)
+* [Námsefni 2](../)
+* [Box módelið](README.md)
