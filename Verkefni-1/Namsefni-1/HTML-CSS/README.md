@@ -91,7 +91,7 @@ Dæmi:
 </html>
 ```
 
-### Upptaling í lista &lt;ul>
+### Upptalning í lista &lt;ul>
 
 Til að búa til lista upptalningu þá þarf að nota samvinnu tveggja taga, &lt;ul> og &lt;li> &lt;ul>
 stendur fyrir “unordered list” eða óraðaðann lista, &lt;li> stendur fyrir “list item” eða lista
@@ -177,7 +177,7 @@ er t.d. ekki hægt að nota `<` (minna) eða `>` (meira) táknin í texta þar s
 
 - **<** er ritað `&lt;`
 - **>** er ritað `&gt;`
-- auka bil er ritað &nbsp;
+- auka bil er ritað `&nbsp;`
 - sértáknið &copy; er ritað `&copy;`
 - **&lt;hr>** Býr til línu
 - &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu.
