@@ -2,7 +2,7 @@
 
 ### Markmið:
 
-Nemdnur geta:
+Nemendur geta:
 
 - skilið hvernig box módelið virkar 
 - breytt eiginleikum taga með _display:_ 
@@ -16,7 +16,7 @@ Nemdnur geta:
 
 Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsagnarletur &lt;H1>. Stílaðu textann eins og sýnt er hér á myndinni
 
-![Css æfing](Námsefni/Box-model/box-inheritance.JPG)
+![Námsefni/Css æfing](Námsefni/Box-model/box-inheritance.JPG)
 
 > H1 - padding - border - margin
 
@@ -24,14 +24,14 @@ Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsag
 
 Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
-![display settings](Námsefni/Box-model/display.JPG)
+![Námsefni/display settings](Námsefni/Box-model/display.JPG)
 
 
 ### 2.2 CSS "_Float_" 
 
 Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda og raða upp eins og sýnt er hér á myndinni.
 
-![float](Námsefni/v.2.2.jpg)
+![Námsefni/float](Námsefni/v.2.2.jpg)
 
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
@@ -45,7 +45,7 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 <header> <nav> <section> <main> <article> <aside> <footer> 
 ```
 
-![html5 vefsíða](Námsefni/v2.3.jpg)
+![Námsefni/html5 vefsíða](Námsefni/v2.3.jpg)
 
 - Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
