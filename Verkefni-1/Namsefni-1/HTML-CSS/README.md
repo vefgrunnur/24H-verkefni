@@ -179,7 +179,6 @@ er t.d. ekki hægt að nota `<` (minna) eða `>` (meira) táknin í texta þar s
 - **>** er ritað `&gt;`
 - auka bil er ritað `&nbsp;`
 - sértáknið &copy; er ritað `&copy;`
-- **&lt;hr>** Býr til línu
 - &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu.
 
 Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
