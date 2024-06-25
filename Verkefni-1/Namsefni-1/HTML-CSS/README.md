@@ -30,7 +30,7 @@ vefnum [https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 
 * _&lt;!DOCTYPE HTML>_
     * Efst á HTML síðuna er sett skilgreining á hvernig skjal þetta er (_Document Type Defenition_). Í þessu tilfelli er um að ræða skilgreining fyrir HTML5 staðalinn
-* Utan um allt efni vefsíðunnar er &lt;html> &lt;/html>
+* Utan um allt efni vefsíðunnar er &lt;html>
 * &lt;head>
     * Allt sem er sett á milli &lt;head> og &lt;/head> tagið hefur áhrif á vefsíðuna en birtist ekki í vafranum. Fleiri skipanir fara í inn á milli &lt;head> taga t.d. javascript skriftur fara í &lt;script> tagið og vísanir í tengd skjöl fara í &lt;link> tagið
 * &lt;title>
@@ -59,15 +59,15 @@ vendihnapp hefur engin áhrif.
 
 # h1 Fyrirsögn
 
-## Undirfyrirsögn
+## h2 Undirfyrirsögn
 
-### Millifyrirsögn
+### h3 Millifyrirsögn
 
-#### Áherslutexti
+#### h4 Áherslutexti
 
-##### Feitletrað meginmál
+##### h5 Feitletrað meginmál
 
-###### Undirmálstexti
+###### h6 Undirmálstexti
 
 
 Body er sjálfgefið 1em eða 16px stærð (_user agent_).
@@ -150,16 +150,22 @@ Dæmi:
 Til að leggja áherslu á innihald texta er HTML staðallinn með nokkur sértög. 
 
 ```HTML
-<strong> | <em> | <sup> | <sub> | <blockqoute>
+<strong> | <em> | <sup> | <sub> | <blockqoute> | <span>
 
 ```
+
+#### inline element
 
 - **&lt;strong>** Texti með áherslu (feitletraður)
 - **&lt;em>** Skáletraður texti
 - **&lt;sup>** tagið fær textann til að birtast <sup>ofan við miðlínu<sub> 
 - **&lt;sub>** fær textann til <sub>að birtast neðan við</sub> miðlínu 
+- **&lt;span>** hægt að stíla texta með öðrum hætti en í stöðluðum tögum
+
+#### block element
+
 - **&lt;blockqoute>** er notað utanum texta sem er vitnað í
-- **&lt;hr>** Býr til línu
+- **&lt;hr>** Býr til línu þegar skipt er um umfjöllunarefni
 
 ---
 
