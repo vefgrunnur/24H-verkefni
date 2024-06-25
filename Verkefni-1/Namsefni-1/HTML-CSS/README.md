@@ -4,16 +4,15 @@ HTML (_HyperText Markup Language_) er ívafsmál notað til þess að sníða st
 inniheldur fjöldann allan af svonefndum tögum (_tags_) sem eru notuð til að merkja á rökréttan
 hátt hvaða hlutar skjalsins þýða hvað, til dæmis hver fyrsta fyrirsögnin á síðunni er.
 
-## Þekkja má HTML tög á því að þau byrja öll á < og enda á > tákninu.
+> Þekkja má HTML tög á því að þau byrja öll á < og enda á > tákninu.
 
-Allar vefsíður byrja á < **html** > og enda á </ **html** > taginu. Munurinn á opnunartaginu og
+Allar vefsíður byrja á taginu < **html** > og enda á </ **html** >. Munurinn á opnunartaginu og
 lokunartaginu er skástrikið **/**. Hvert tag hefur svo að sjálfsögðu sitt ákveðna hlutverk í
 uppsetningunni. Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á
-vefsíðunni [http://www.w3schools.com/html5/html5_reference.asp](http://www.w3schools.com/html5/html5_reference.asp)
+vefnum [https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 
-Hér er sýnidæmi um afar einfalda vefsíðu:
 
-Þegar vefsíðan er skoðuð nánar (bakvið tjöldin) kemur í ljós HTML kóði vefsíðunnar.
+Þegar vefsíða er skoðuð nánar  í vafra (_hægri smella á mús og velja "inspector"_) kemur í ljós HTML kóði vefsíðunnar.
 
 ```HTML
 <!DOCTYPE HTML>
@@ -52,16 +51,12 @@ kóðans. Autt bil verður mest aðeins eitt stafabil í vafra, það hefur engi
 ef það er mikið bil á milli taga eða texta. Að ýta nokkrum sinnum um á bilstöng eða
 vendihnapp hefur engin áhrif.
 
-
-
 ### Fyrisagnir &lt;h1> til &lt;h6>
 
 Í HTML staðlinum er boðið upp á 7 leturtög &lt;h1> til &lt;h6> og &lt;p>, Sjálfgefið hafa tögin
 ákveðnu hlutfalli af leturstærð &lt;body> tagsins. Body er sjálfgefið (_user agent_) 1em eða 16px.
 
 &lt;p> tagið stendur fyrir málsgrein (paragraph). Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin. Förum nánar í eiginleika taga í 2. verkefni.
-
-&lt;br> tagið býr til 1 línubil í texta, fer í næstu línu (einsog að smella á vendihnappinn).
 
 Dæmi:
 
@@ -119,8 +114,7 @@ Dæmi:
 <li> Maí </li>
 </ul >
 ```
-
-
+---
 
 ### Textatög
 
@@ -150,6 +144,7 @@ er t.d. ekki hægt að nota `<` (minna) eða `>` (meira) táknin í texta þar s
 - autt bil er ritað &nbsp;
 - sértáknið &copy; er ritað `&copy;`
 - **&lt;hr>** Býr til línu
+- &lt;br> tagið býr til 1 línubil í texta, fer í næstu línu.
 
 Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
