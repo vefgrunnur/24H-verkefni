@@ -56,7 +56,7 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 #### Tímaverkefni 15%
 
-> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
+> Skil á verkefni 4 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
 

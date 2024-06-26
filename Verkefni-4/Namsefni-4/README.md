@@ -46,5 +46,5 @@ body {
 
 ### Lesefni
 
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 - https://bok.vefforritun.is/18.skalanlegir
+
