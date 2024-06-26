@@ -9,7 +9,7 @@ Nemendur öðlast skilning á:
 
 Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáum. Til að hafa áhrif á skipulag HTML síðu setjum við inn viðmið (_breakpoints_) í CSS stílsíðuna.  Við notum **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.  
 
-#### [Sýnidæmi](Namsefni-4#vi%C3%B0mi%C3%B0-breakpoints---mobile-up)
+- [Kóðadæmi með viðmiðum (_@media & breakpoints_) ](Namsefni-4/README.md)
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
@@ -24,7 +24,7 @@ Afritaðu (_copy_) _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og 
   * 3 dálkar 33.33% breidd (1fr 1fr 1fr) 
   * 4 dálkar 25% breidd (4, 1fr)
 
-#### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
+- [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
 ---
 
@@ -34,7 +34,7 @@ Afritaðu vefsíðu og stílsíðu sem þú gerðir í **Tímaverkefni 3.1** og 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
 
-#### [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
+- [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
 ---
 
