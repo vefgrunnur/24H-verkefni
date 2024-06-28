@@ -193,11 +193,13 @@ Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
 ### Ritun
 
-Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan annara taga kölluð "hreiðruð" (_e. nested_) tög. 
+Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan annara taga kölluð "hreiðruð" (_e. nested_) tög. Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt. Í lista sem er með undirlista skiptir miklu máli að uppsetningin sé rétt: 
 
-#### Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt.
+Dæmi um ranga uppsetningu:
 
-Dæmi: ` <p>Lorem ipsum <span>dolor shit amen</div></span> `
+```HTML
+    <ul>
+        <li>Lorem ipsum <em>dolor shit amen</div></em> `
 
 ---
 
