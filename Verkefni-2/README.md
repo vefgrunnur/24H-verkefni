@@ -79,3 +79,5 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 #### Einkunn verður birt í Innu
 
+#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-2/N%C3%A1msefni)
+
