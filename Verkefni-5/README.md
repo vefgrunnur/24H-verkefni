@@ -1,12 +1,11 @@
-# Leturgerðir, leiðakerfi og bakgrunnar
+# Letur, litir og leiðakerfi (_e. navigation)
 
 ### Markmið:
 
 Nemendur geta:
 
 * unnið með mismunandi leturgerðir í vefsíðu frá [Google Fonts](https://fonts.google.com/). 
-* fundið samræmi í leturgerð og litanotkun miðað við efni vefs 
-* sett bakgrunnsliti í vefsíðu
+* fundið samræmi í letur- og litanotkun miðað við efni vefs 
 * skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_)
 
 ---
@@ -44,7 +43,9 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
 
-#### [Efnisyfirlit _footer_](Namsefni-5/Dæmi/Readme.md#efnisyfirlit---mobile)
+- [Efnisyfirlit dæmi](Namsefni-5/Dæmi/Readme.md#efnisyfirlit---mobile)
+- [Tenglar í efnisyfiliti]()
+
 
 ---
 
