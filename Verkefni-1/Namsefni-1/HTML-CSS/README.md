@@ -44,7 +44,7 @@ vefnum [https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 mannslíkamann sem skiptist í höfuð &lt;head> og bol &lt;body>. Öll ofangreind tög í sýnidæminu
 eru nauðsynleg og mynda beinagrind vefsíðunnar.
 
-> Athugaðu að ofangreind tög eiga og mega aðeins koma fyrir **einu sinni** í vefsíðu.
+> Athugaðu að ofangreind tög á að setja **einu sinni** í vefsíðu.
 
 Æskilegur ritháttur er að nota eingögnu lágstafi í tögum: <body> texti </body>. Einnig er
 þarft að hafa tög inndregin þegar tög eru fléttuð inn í önnur tög, það auðveldar yfirlestur
