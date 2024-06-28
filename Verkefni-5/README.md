@@ -12,7 +12,7 @@ Nemendur geta:
 
 ### Val á leturgerð  
 
-Í verkefni 5 er [sýnidæmi](Namsefni-5/Dæmi/Readme.md), þú átt að líkja eftir uppsetningunni sem er á myndunum. Notaðu [HTML vefsíðurnar](Namsefni-5/verkefni-5/) sem fylgja með til að vinna verkefnið. 
+Í verkefni 5 er [sýnidæmi](Namsefni-5/Dæmi/Readme.md), þú átt að líkja eftir uppsetningunni sem er á myndunum. Notaðu [HTML vefsíðurnar](Namsefni-5/verkefni-5.zip) sem fylgja með til að vinna verkefnið. 
  
 
 - Búðu til stílsíðu og settu viðeigandi leturstíla á texta vefsins
