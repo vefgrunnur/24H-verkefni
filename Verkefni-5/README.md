@@ -1,4 +1,4 @@
-# Letur, litir og leiðakerfi (_e. navigation)
+# Letur, litir og leiðakerfi (_e. navigation_)
 
 ### Markmið:
 
