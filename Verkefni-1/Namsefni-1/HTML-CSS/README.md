@@ -108,7 +108,7 @@ eintak.
     <ul>
         <li> Janúar </li>
         <li> Febrúar </li>
-        <li> Mars < /li>
+        <li> Mars </li>
         <li> Apríl </li>
         <li> Maí </li>
     </ul >
