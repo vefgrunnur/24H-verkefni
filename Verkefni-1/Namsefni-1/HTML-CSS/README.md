@@ -195,11 +195,27 @@ Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
 Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan annara taga kölluð "hreiðruð" (_e. nested_) tög. Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt. Í lista sem er með undirlista skiptir miklu máli að uppsetningin sé rétt: 
 
-Dæmi um ranga uppsetningu:
-
 ```HTML
+    <p>Rangt</p>
     <ul>
-        <li>Lorem ipsum <em>dolor shit amen</div></em> 
+        <li>Lorem ipsum dolor</li>
+        <li>
+            <ol>Vel voluptate id odit </li>
+            <li>quo accusamus voluptatem</li>
+        </ol>
+        <li>velit ratione, atque quas!</li>
+    </ul>
+
+    <p>Rétt</p>
+    <ul>
+        <li>Lorem ipsum dolor</li>
+        <ol>
+            <li>Vel voluptate id odit </li>
+            <li>quo accusamus voluptatem</li>
+        </ol>
+        <li>velit ratione, atque quas!</li>
+    </ul>
+        
 ```
 ---
 
