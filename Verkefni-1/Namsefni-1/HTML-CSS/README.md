@@ -76,7 +76,7 @@ Body er sjálfgefið 1em eða 16px stærð (_user agent_).
 
 > Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin.
 
-[Förum nánar í eiginleika taga í verkefni 2.](../Verkefni-2/README.md)
+[Förum nánar í eiginleika taga í verkefni 2.](../../Verkefni-2/README.md)
 
 Dæmi:
 
