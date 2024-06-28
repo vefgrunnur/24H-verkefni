@@ -74,7 +74,9 @@ Body er sjálfgefið 1em eða 16px stærð (_user agent_).
 
 **&lt;p>** tagið stendur fyrir málsgrein (paragraph). 
 
-> Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin. Förum nánar í eiginleika taga í 2. verkefni.
+> Leturtögin eru "_block element_" sem eru með 100% breidd og með línubil fyrir ofan og neðan tögin.
+
+(Förum nánar í eiginleika taga í verkefni 2.)
 
 Dæmi:
 
