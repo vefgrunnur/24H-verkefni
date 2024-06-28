@@ -63,6 +63,6 @@
 
 ---
 
-#### [Bjargir](https://github.com/vefgrunnur/24H-verkefni/wiki)
+#### [Bjargir: 24H-verkefni/wiki](https://github.com/vefgrunnur/24H-verkefni/wiki)
 
-#### [Lesefni](https://bok.vefforritun.is/)
+#### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
