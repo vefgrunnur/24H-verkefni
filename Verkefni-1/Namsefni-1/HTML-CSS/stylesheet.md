@@ -86,7 +86,7 @@ tengingin &lt;link> virki á milli þeirra.
     </head>
     <body>
         <h1>Fyrirsögn</h1>
-        <p>Þessi texti í málsgrein verður rauð<p>
+        <p>Þessi texti í málsgrein verður rauður<p>
     </body>
 </html>
 ```
@@ -133,15 +133,14 @@ Hvernig ákvarða ég þykkt leturs?
 ```CSS
     p.normal {font-weight:normal}
     p.thick {font-weight:bold}
-    p.thicker {font-weight:900}
+    p.thicker {font-weight:900} /* skali frá 100 til 900. 400 = normal */ 
 ```
 
 ```HTML
 <body>
     <p class="normal">This is a normal paragraph</p>
     <p class="thick">This is a thick paragraph</p>
-    <p class="thicker">This is a thicker
-    paragraph</p>
+    <p class="thicker">This is a thicker paragraph</p>
 </body>
 ```
 

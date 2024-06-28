@@ -60,4 +60,4 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 #### Einkunn verður birt í Innu
 
-_Gangi þér vel_
+#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-4/Namsefni-4)
