@@ -197,6 +197,8 @@ Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan a
 
 > Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt.
 
+Dæmi: ` <p>Lorem ipsum <span>dolor shit amen</div></span> `
+
 ---
 
 ### Bjargir
