@@ -133,7 +133,7 @@ Hvernig ákvarða ég þykkt leturs?
 ```CSS
     p.normal {font-weight:normal}
     p.thick {font-weight:bold}
-    p.thicker {font-weight:900}
+    p.thicker {font-weight:900} /* skali frá 100 til 900. 400 = normal */ 
 ```
 
 ```HTML
