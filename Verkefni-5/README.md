@@ -31,7 +31,6 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 * Litskipting í bakgrunni
 * Bakgrunns-litaskali (_Background gradient color_)
-    * [Sýnidæmi](Namsefni-5/Dæmi/Readme.md#fartölva---laptop) 
 * Hafið góða skerpu (_contrast_) á milli bakgrunnslitar og leturs
 
 ---
@@ -42,10 +41,6 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
-
-- [Efnisyfirlit dæmi](Namsefni-5/Dæmi/Readme.md#efnisyfirlit---mobile)
-- [Tenglar í efnisyfiliti]()
-
 
 ---
 
@@ -63,5 +58,7 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 > Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
+
+#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-5/Namsefni-5)
 
 _Gangi þér vel_
