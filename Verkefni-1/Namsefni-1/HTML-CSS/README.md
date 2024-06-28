@@ -199,8 +199,8 @@ Dæmi um ranga uppsetningu:
 
 ```HTML
     <ul>
-        <li>Lorem ipsum <em>dolor shit amen</div></em> `
-
+        <li>Lorem ipsum <em>dolor shit amen</div></em> 
+```
 ---
 
 ### Bjargir
