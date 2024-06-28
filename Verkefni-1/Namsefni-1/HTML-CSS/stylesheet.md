@@ -86,7 +86,7 @@ tengingin &lt;link> virki á milli þeirra.
     </head>
     <body>
         <h1>Fyrirsögn</h1>
-        <p>Þessi texti í málsgrein verður rauð<p>
+        <p>Þessi texti í málsgrein verður rauður<p>
     </body>
 </html>
 ```
