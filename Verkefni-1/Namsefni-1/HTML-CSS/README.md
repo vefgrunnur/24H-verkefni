@@ -197,16 +197,11 @@ Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan a
 
 ```HTML
     <p>Rangt</p>
-    <ul>
-        <li>Lorem ipsum dolor</li>
-        <li>
-            <ol>Vel voluptate id odit </li>
-            <li>quo accusamus voluptatem</li>
-        </ol>
-        <li>velit ratione, atque quas!</li>
-    </ul>
+    <ul><li>Lorem ipsum dolor</li>
+    <li><ol>Vel voluptate id odit </li><li>quo accusamus voluptatem</li></ol>
+    <li>velit ratione, atque quas!</ul></li>
 
-    <p>Rétt</p>
+    <p>Rétt uppsetning, hreiðruð tög inndregin</p>
     <ul>
         <li>Lorem ipsum dolor</li>
         <ol>
