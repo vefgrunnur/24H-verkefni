@@ -67,3 +67,5 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 
 #### Einkunn verður birt í Innu
 
+#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-1/Namsefni-1)
+
