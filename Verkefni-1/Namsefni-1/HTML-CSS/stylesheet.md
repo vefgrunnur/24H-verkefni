@@ -140,8 +140,7 @@ Hvernig ákvarða ég þykkt leturs?
 <body>
     <p class="normal">This is a normal paragraph</p>
     <p class="thick">This is a thick paragraph</p>
-    <p class="thicker">This is a thicker
-    paragraph</p>
+    <p class="thicker">This is a thicker paragraph</p>
 </body>
 ```
 
