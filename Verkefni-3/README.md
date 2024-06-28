@@ -32,8 +32,6 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
   - [**Grid skipulag**](Namsefni-3/Grid/Readme.md)
 
-### [Lesefni](Namsefni-3/README.md)
-
 ---
 
 ### Námsmat 
@@ -52,3 +50,5 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 > Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
+
+#### [Námsefni](Namsefni-3/README.md)
