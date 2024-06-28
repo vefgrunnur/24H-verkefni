@@ -64,4 +64,3 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 #### Lesefni
 - [Letur og litir](https://bok.vefforritun.is/15.css-letur-litir)
 - [Hönnun](https://bok.vefforritun.is/20.honnun)
-
