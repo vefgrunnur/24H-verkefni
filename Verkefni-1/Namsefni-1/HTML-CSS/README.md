@@ -158,7 +158,7 @@ Til að leggja áherslu á innihald texta er HTML staðallinn með nokkur sért�
 
 ```
 
-#### inline element
+#### [inline element](https://www.w3schools.com/html/html_blocks.asp)
 
 - **&lt;strong>** Texti með áherslu (feitletraður)
 - **&lt;em>** Skáletraður texti
@@ -166,7 +166,7 @@ Til að leggja áherslu á innihald texta er HTML staðallinn með nokkur sért�
 - **&lt;sub>** fær textann til <sub>að birtast neðan við</sub> miðlínu 
 - **&lt;span>** hægt að stíla texta með öðrum hætti en í stöðluðum tögum
 
-#### block element
+#### [block element](https://www.w3schools.com/html/html_blocks.asp)
 
 - **&lt;blockqoute>** er notað utanum texta sem er vitnað í
 - **&lt;hr>** Býr til línu þegar skipt er um umfjöllunarefni
