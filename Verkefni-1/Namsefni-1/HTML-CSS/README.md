@@ -195,7 +195,7 @@ Listi yfir sértákn: http://www.w3schools.com/html/html_entities.asp
 
 Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan annara taga kölluð "hreiðruð" (_e. nested_) tög. 
 
-> Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt.
+#### Hreiðruð tög mega ekki víxlast, því þá virka skipanir ekki rétt.
 
 Dæmi: ` <p>Lorem ipsum <span>dolor shit amen</div></span> `
 
