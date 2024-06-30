@@ -1,37 +1,34 @@
-# Í VINNSLU
+#Tenglar (_links_)
 
-##Tenglar innan sömu HTML síðu:
+Mjög gott getur verið að hafa tengla sem vísa á ákveðinn hluta innan vefsíðu. Þetta gerir notanda mögulegt að nálgast efnisatriði á auðveldan hátt. 
 
-Mjög gott getur verið að hafa tengla á einhvern ákveðinn hluta innan vefsíðu. Þetta gerir
-vefhönnuði mögulegt að nálgast efnisatriði á auðveldan hátt. Í HTML er þetta gert með <a>
-taginu. Ef við viljum til dæmis vera með link á síðunni sem sendir notandann efst á síðuna er
-eftirfarandi kóði settur efst á síðuna:
+Í HTML er þetta gert með ID eigindinu. 
 
+```HTML
+    <body id =“top“ >Efst á síðu</a>
 ```
-< body id =“top“ ></a>
-```
-Hér er svo id eigindið sem geymir hina eiginlegu tilvísun á ákveðna staðsetningu í skjalinu,
-þið sjáið að með a taginu er id eigindið.
-Til að komast að akkerinu er notast við eftirfarandi kóða: **<a href=”#top”>** Efst á síðu</a>
 
-* Sýnidæmi:
+ID eigindið sem geymir hina eiginlegu tilvísun á ákveðna staðsetningu í skjalinu. Vafrinn notar # táknið til að finna ID skilgreininguna.
+
+```HTML
+    <a href="#top">Efst á síðu</a>
+```
+
+* [Dæmi um innri tengla](Daemi/relative_links.html) (_relative links_)
 
 Stílsniði beitt á tengla
-Til að beita áhrifum stílsniðs á tengla þá eru notaðir svokallaðir "gerfi"-klasar (pseudo-class).
+Til að beita áhrifum stílsniðs á tengla þá eru notaðir svokallaðir "huldu"-klasar (pseudo-class).
 Þetta er aðferð til að hafa áhrif á undirtög sumra html-taga. Gott dæmi um slíkt eru einmitt
 viðbæturnar við tengi-tagið <a>. Þar eru fyrir eigindin link, visited, hover og active.
 
 Dæmi: í stílsíðu
+
+```CSS
 a:link {color: #F00}
 a:visited {color: #0F0}
 a:hover {color: #F0F}
 a:active {color: #00F}
-
-Í HTML síðu
-<a href="einhversida.html">Hér er tengill sem skiptir um lit</a>
-
-
-
+```
 
 * [Sýnidæmi](Dæmi)
 * [Vefsíður til að vinna með](verkefni-5)

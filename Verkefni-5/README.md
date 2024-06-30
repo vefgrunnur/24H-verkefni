@@ -4,7 +4,7 @@
 
 Nemendur geta:
 
-* unnið með mismunandi leturgerðir í vefsíðu frá [Google Fonts](https://fonts.google.com/). 
+* unnið með mismunandi leturgerðir í vefsíðu frá [Google Fonts](https://fonts.google.com/)
 * fundið samræmi í letur- og litanotkun miðað við efni vefs 
 * skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_)
 
@@ -41,7 +41,7 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
-  * [Dæmi um innri tengla](Namsefni-5/Daemi/relative_links.html) (_relative links_)
+  * [Sjá nánar](Namsefni-5/README.md)
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
 
 ---
