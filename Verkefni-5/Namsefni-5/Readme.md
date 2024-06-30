@@ -18,7 +18,7 @@ ID eigindið sem geymir hina eiginlegu tilvísun á ákveðna staðsetningu í s
 
 ## Hulduklasar (_pseudo-class_)
 
-Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hulduklasar_ sem bregðast við notkun notandans. Áður en snertiskjáir urðu alsráðandi þá voru ákveðnir stílar hannaðir fyrir tölvumúsina og tengdust &lt;a> taginu: 
+Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hulduklasar_ sem bregðast við notkun notandans.
 
 ```CSS
     a:link {color: #F00}
