@@ -48,7 +48,7 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 
 * Tenglar sem vísar á verkefni 1 - 5
-* Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) 
+* Tenglar sem vísa á aðra vefi á internetinu (_absolute links_) 
 * Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
 
 ---
