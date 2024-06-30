@@ -27,7 +27,10 @@ Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hu
     a:active {color: #00F}
 ```
 
-Klasarnir hér að ofan virka aðeins þegar mús er tengd við tölvu. 
+* ```:link``` upphaflegur litur. Blár er staðallitur og texti undirstrikaður
+* ```:visited``` annar litur gefur til kynna að notandi hefur notað tenginguna
+* ```:hover``` ATHUGIÐ! virkar ekki á snertiskjá
+* ```:active``` virkar þegar tengill er snertur eða valinn
 
 Það eru fjölmargir aðrir hulduklasar sem notaðir eru í CSS stílsíðu og við förum nánar í notkun þeirra í næsta áfanga. [Sjá nánar.](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
