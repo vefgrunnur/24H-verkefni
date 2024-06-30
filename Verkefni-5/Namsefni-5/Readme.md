@@ -42,15 +42,15 @@ Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hu
 
 body {
     font-family: Helvetica, sans-serif; /* vafrinn velur Helvetica ef það er til, annars system font (sans-serif) */ 
-    font-style: normal;      /* italic , obligue */
-    font-weight: normal;     /* bold , 100 - 900 */
-    font-size: 1em;          /* 1px , 1rem , 100% */
-    line-height: 1.5;         /* tekur mið af einingunni sem er á font-size, staðlað 1.3 */
+    font-style: normal;      /* italic, obligue */
+    font-weight: 500;     /* normal, bold, 100 - 900 */
+    font-size: 1rem;          /* 16px, 1em, 100% */
+    line-height: 1.5;         /* tekur mið af einingunni sem er á font-size */
 }
 
 /* hér er öllum stílum sópað saman í eina skipun "font:"*/
 body {
-    font:italic bold 100%/120% Georgia, Times, serif;
+    font:normal 500 1rem/1.5 Helvetica, sans-serif;
     /*font-style, -weight, -size/-lineheight -family */
 }
 
