@@ -10,7 +10,7 @@ Nemendur geta:
 
 ![Octocat](github-octocat.svg)
 
-#### Meðfylgjandi verkefnalýsingunni eru .zip skrár
+#### Meðfylgjandi verkefnalýsingunni eru tvær .zip skrár
 
 * [Vefsíða og stílsíða](Namsefni-6/demosite.zip)  
 * [Myndir](Namsefni-6/originals.zip)
