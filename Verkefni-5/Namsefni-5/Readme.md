@@ -34,6 +34,7 @@ Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hu
 
 Það eru fjölmargir aðrir hulduklasar sem notaðir eru í CSS stílsíðu og við förum nánar í notkun þeirra í næsta áfanga. [Sjá nánar.](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
+---
 
 ### Leturstillingar í CSS
 
