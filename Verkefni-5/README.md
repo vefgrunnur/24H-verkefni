@@ -39,7 +39,9 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_) 
 
-* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
+* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins
+* Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
+  * [Dæmi um innri tengla](Namsefni-5/Daemi/relative_links.html) (_relative links_)
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
 
 ---
@@ -51,7 +53,6 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 * 2% 5.1 Leturval
 * 2% 5.2 Litaval 
 * 1% 5.3 Leiðakerfi
-
 
 #### Tímaverkefni 10%
 
