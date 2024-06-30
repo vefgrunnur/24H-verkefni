@@ -59,6 +59,8 @@ body {
 
 ### Bakgrunnsmynd í vefsíðu
 
+Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flókanr og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti.
+
 ```CSS
 
 body {
