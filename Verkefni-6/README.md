@@ -70,6 +70,9 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 #### Einkunn verður birt í Innu
 
-_Gangi þér vel_
+---
 
+### Bjargir
+
+[How To Use Photopea 2024 (Tutorial for Beginner Designers)](https://www.youtube.com/watch?v=JIdvvG9ZX7c)
 
