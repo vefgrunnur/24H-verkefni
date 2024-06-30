@@ -59,7 +59,8 @@ body {
 
 ### Bakgrunnsmynd í vefsíðu
 
-Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flókanr og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti.
+Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flókanr og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti. Góð lausn er að nota [bakgrunnslitaskala](https://www.w3schools.com/css/css3_gradients.asp).
+
 
 ```CSS
 
