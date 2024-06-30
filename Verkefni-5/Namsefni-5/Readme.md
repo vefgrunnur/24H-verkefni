@@ -1,4 +1,4 @@
-#Tenglar (_links_)
+# Tenglar (_links_)
 
 Mjög gott getur verið að hafa tengla sem vísa á ákveðinn hluta innan vefsíðu. Þetta gerir notanda mögulegt að nálgast efnisatriði á auðveldan hátt. 
 
@@ -16,22 +16,21 @@ ID eigindið sem geymir hina eiginlegu tilvísun á ákveðna staðsetningu í s
 
 * [Dæmi um innri tengla](Daemi/relative_links.html) (_relative links_)
 
-Stílsniði beitt á tengla
-Til að beita áhrifum stílsniðs á tengla þá eru notaðir svokallaðir "huldu"-klasar (pseudo-class).
-Þetta er aðferð til að hafa áhrif á undirtög sumra html-taga. Gott dæmi um slíkt eru einmitt
-viðbæturnar við tengi-tagið <a>. Þar eru fyrir eigindin link, visited, hover og active.
+## Hulduklasar (_pseudo-class_)
 
-Dæmi: í stílsíðu
+Til að gera vafrann móttækilegan (_responsive_) þá eru til svokallaðir _hulduklasar_ sem bregðast við notkun notandans. Áður en snertiskjáir urðu alsráðandi þá voru ákveðnir stílar hannaðir fyrir tölvumúsina og tengdust &lt;a> taginu: 
 
 ```CSS
-a:link {color: #F00}
-a:visited {color: #0F0}
-a:hover {color: #F0F}
-a:active {color: #00F}
+    a:link {color: #F00}
+    a:visited {color: #0F0}
+    a:hover {color: #F0F}
+    a:active {color: #00F}
 ```
 
-* [Sýnidæmi](Dæmi)
-* [Vefsíður til að vinna með](verkefni-5)
+Klasarnir hér að ofan virka aðeins þegar mús er tengd við tölvu. 
+
+Það eru fjölmargir aðrir hulduklasar sem notaðir eru í CSS stílsíðu og við förum nánar í notkun þeirra í næsta áfanga. [Sjá nánar.](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
 
 ### Leturstillingar í CSS
 
