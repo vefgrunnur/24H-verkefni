@@ -37,12 +37,17 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 ### Leiðakerfi vefs
 
-Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_) 
+### Efnisyfirlit (_menu_)
 
-* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins
+* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og innri tengla í gamanmal.html
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
-  * [Sjá nánar](Namsefni-5/README.md)
-* Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
+  * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
+
+Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein (_footer_).
+
+* Tenglar sem vísar á verkefni 1 - 5
+* Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) 
+* Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
 
 ---
 
@@ -63,5 +68,6 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 #### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-5/Namsefni-5)
 
 #### Lesefni
+
 - [Letur og litir](https://bok.vefforritun.is/15.css-letur-litir)
 - [Hönnun](https://bok.vefforritun.is/20.honnun)
