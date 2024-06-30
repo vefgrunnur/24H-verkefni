@@ -1,4 +1,4 @@
-# Letur, litir og leiðakerfi (_e. navigation_)
+# Letur, litir og leiðakerfi 
 
 ### Markmið:
 
@@ -35,15 +35,17 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 ---
 
-### Leiðakerfi vefs
+### Leiðakerfi vefs (_e. navigation_)
 
-### Efnisyfirlit (_menu_)
+#### Efnisyfirlit (_menu_)
 
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og innri tengla í gamanmal.html
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
   * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
 
-Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein (_footer_).
+#### Neðanmálsgrein (_footer_)
+
+Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 
 * Tenglar sem vísar á verkefni 1 - 5
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) 
