@@ -62,7 +62,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
     * 1 mynd: [0 - 768px] – 2 myndir: [768px - 960px] – 3 myndir: [960px - 1600px] – miðjusett: (max-width 1600px)
 1. **Mynd með gegnsæjum bakgrunni	(_.png_) 1%**
 
-#### Tímaverkefni 5%
+#### Tímaverkefni 10%
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
