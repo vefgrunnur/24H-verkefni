@@ -23,8 +23,8 @@
 | 6  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
 | 7  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 5 | 
 | 8  | Myndvinnsla | 6 | 5 | 10 |
-| 9  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | - | 20 |
-| 10  | Síðasti kennsudagur --- |  | 30 | 70 |
+| 9  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 20 | - |
+| 10  | Síðasti kennsudagur --- |  | 50 | 50 |
 
 ---
 
