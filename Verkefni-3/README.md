@@ -42,8 +42,6 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 
 - [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/GridLayout.md)
 
-
-
 ---
 
 ### Námsmat 
@@ -53,13 +51,17 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 - 3.1 Flex raðir og dálkar
 - 3.2 Grid dálkar ` col-2, col-3 og col-4 `
 - 3.3 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
-- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
+
 
 #### Tímaverkefni 10%
 
 - Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í sér skrá, **Tímaverkefni.zip**. 
 
-> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
+### Verkefnaskil
+
+- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefnaskil 3 í Innu
+- Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 3.
+- Skil á verkefni 3 lokast þegar tímaverkefni er lokið
 
 #### Einkunn verður birt í Innu
 
