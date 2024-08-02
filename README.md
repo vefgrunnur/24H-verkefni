@@ -14,7 +14,7 @@
 
 #### 2024 haust, spönn 1. 
 
-| Vika  | Verkefni  | Nr. | Æfingar% | Tímaverkefni % |
+| Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
 | 1  | Uppsetning vefþróunarsvæðis  | 1  | x | x |
 | 2  | HTML og CSS | 1  | 5 | 5 |
