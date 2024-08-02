@@ -20,9 +20,7 @@ Nemendur geta:
 - Neðri röðin á að vera lóðrétt röð
 - Textinn í dálkunum á að vera **í miðju** dálkana
 
-### Hér er sýnidæmi um flex raðir og dálka:
-
-  - [Flex](Namsefni-3/Flexbox/verk.3.1.jpg)
+- [Hér er sýnidæmi um flex raðir og dálka](Namsefni-3/Flexbox/verk.3.1.jpg)
 
 ---
 
@@ -30,17 +28,13 @@ Nemendur geta:
 
 Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
-### Hér er sýnidæmi um grid dálkaskipulag: 
-
-  - [**Grid dálkar**](Namsefni-3/Grid/Readme.md)
+- [Hér er sýnidæmi um grid dálkaskipulag](Namsefni-3/Grid/Readme.md)
 
 ---
 
 ### 3.3 Grid skipulag (_layout_)
 
-### Hér er sýnidæmi um skipulag vefsíðu: 
-
-  - [**Grid dálkar**](Namsefni-3/Grid/GridLayout.md)
+- [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/GridLayout.md)
 
 ---
 
