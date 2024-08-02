@@ -61,7 +61,7 @@ Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 * 2% 5.2 Litaval 
 * 1% 5.3 Leiðakerfi
 
-#### Tímaverkefni 10%
+#### Tímaverkefni 5%
 
 > Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
