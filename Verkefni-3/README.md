@@ -28,11 +28,17 @@ Nemendur geta:
 
 Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
-### Hér eru sýnidæmi um skipulag vefsíðu: 
+### Hér eru sýnidæmi um grid dálkaskipulag: 
 
-  - [**Grid skipulag**](Namsefni-3/Grid/Readme.md)
+  - [**Grid dálkar**](Namsefni-3/Grid/Readme.md)
 
 ---
+
+### 3.3 Grid skipulag (_layout_)
+
+### Hér eru sýnidæmi um skipulag vefsíðu: 
+
+  - [**Grid dálkar**](Namsefni-3/Grid/GridLayout.md)
 
 ### Námsmat 
 
