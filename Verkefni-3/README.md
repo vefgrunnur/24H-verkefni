@@ -10,7 +10,7 @@ Nemendur geta:
 
 ### 3.1 Display Flexbox
 
-> Meðfylgjandi verkefni 3 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](Namsefni-3/verkefni-nemar.zip) 
+Meðfylgjandi verkefni 3 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](Namsefni-3/verkefni-nemar.zip) 
 
 - [Síðan lítur svona út þegar þú opnar hana í vafra](Namsefni-3/Flexbox/before.3.1.jpg)
 - Breyttu efri röðinni (Row order) þannig að dálkarnir séu í einni **röð, gulur, rauður, grænn og blár**. 
