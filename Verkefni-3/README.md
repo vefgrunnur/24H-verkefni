@@ -38,8 +38,9 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
 #### Æfingaverkefni 5%
 
-- 3.1 Æfing, Grid dálkar ` col-2, col-3 og col-4 `
-- 3.2 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
+- 3.1 Flex raðir og dálkar
+- 3.2 Grid dálkar ` col-2, col-3 og col-4 `
+- 3.3 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
   - `header` `nav` `main` `article` `aside` `footer`
 - Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
 
