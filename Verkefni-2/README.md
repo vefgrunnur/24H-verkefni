@@ -73,9 +73,13 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 #### Tímaverkefni 7%
 
-- Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
+- Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
 
-> Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
+### Verkefnaskil
+
+- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefnaskil 2 í Innu
+- Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 2.
+- Skil á verkefni 2 lokast þegar tímaverkefni er lokið
 
 #### Einkunn verður birt í Innu
 

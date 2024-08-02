@@ -54,7 +54,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 
 #### Tímaverkefni 10%
 
-- Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í sér skrá, **Tímaverkefni.zip**. 
+- Tímaverkefni er lagt fyrir í síðustu kennslustund 3. verkefnis 
 
 ### Verkefnaskil
 
