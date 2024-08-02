@@ -1,4 +1,4 @@
-# Skipulag vefsíðu með Grid Layout og Flex
+# Skipulag vefsíðu með Grid og Flex
 
 ### Markmið:
 
@@ -43,6 +43,8 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
   - [**Grid dálkar**](Namsefni-3/Grid/GridLayout.md)
 
+---
+
 ### Námsmat 
 
 #### Æfingaverkefni 5%
@@ -50,7 +52,8 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 - 3.1 Flex raðir og dálkar
 - 3.2 Grid dálkar ` col-2, col-3 og col-4 `
 - 3.3 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
-  - `header` `nav` `main` `article` `aside` `footer`
+  - ```HTML 
+    <nav> <header> <main> <article> <aside> <footer> ```
 - Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
 
 #### Tímaverkefni 10%
