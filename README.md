@@ -47,8 +47,8 @@
 
 1. verkefni 10%.  Vefþróunarsvæði
 1. verkefni 10%. CSS, Box Modelið og display 
-1. verkefni 10%. Grid og Flex
-1. verkefni 25%. Sveigjanleg hönnun. - _**Lykilmatsþáttur**_
+1. verkefni 15%. Grid og Flex
+1. verkefni 20%. Sveigjanleg hönnun. - _**Lykilmatsþáttur**_
 1. verkefni 10%. Letur- og litaval. Leiðakerfi
 1. verkefni 10%. Myndvinnsla
 1. verkefni 25%. Video, audio, iframe og Staðsetning hluta. -  _**Lykilmatsþáttur**_
