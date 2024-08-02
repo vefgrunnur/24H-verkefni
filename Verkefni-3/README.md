@@ -34,7 +34,15 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
 ### 3.3 Grid skipulag (_layout_)
 
+Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **display: grid** til að búa til dálkana og eftirfarnadi html tög.
+
+```HTML 
+    <nav> <header> <main> <article> <aside> <footer> 
+```
+
 - [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/GridLayout.md)
+
+
 
 ---
 
@@ -45,8 +53,6 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 - 3.1 Flex raðir og dálkar
 - 3.2 Grid dálkar ` col-2, col-3 og col-4 `
 - 3.3 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
-  - ```HTML 
-    <nav> <header> <main> <article> <aside> <footer> ```
 - Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
 
 #### Tímaverkefni 10%
