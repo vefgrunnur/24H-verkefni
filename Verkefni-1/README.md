@@ -50,7 +50,7 @@ Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðu
 color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
 ```
 
-### Námsmat
+### Námsmat 10% af heildareinkunn
 
 #### Æfingaverkefni 5%
 

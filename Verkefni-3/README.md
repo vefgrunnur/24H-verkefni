@@ -43,7 +43,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 
 ---
 
-### Námsmat 
+### Námsmat 15% af heildareinkunn
 
 #### Æfingaverkefni 5%
 
