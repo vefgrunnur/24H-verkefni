@@ -20,6 +20,9 @@ Nemendur geta:
   - flex-flow: row-reverse;
 - Neðri röðin á að vera lóðrétt röð
 - Textinn í dálkunum á að vera **í miðju** dálkana
+
+### Hér er sýnidæmi um flex raðir og dálka:
+
   - [Flex](Namsefni-3/Flexbox/verk.3.1.jpg)
 
 ---
@@ -28,7 +31,7 @@ Nemendur geta:
 
 Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
-### Hér eru sýnidæmi um grid dálkaskipulag: 
+### Hér er sýnidæmi um grid dálkaskipulag: 
 
   - [**Grid dálkar**](Namsefni-3/Grid/Readme.md)
 
@@ -36,7 +39,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
 ### 3.3 Grid skipulag (_layout_)
 
-### Hér eru sýnidæmi um skipulag vefsíðu: 
+### Hér er sýnidæmi um skipulag vefsíðu: 
 
   - [**Grid dálkar**](Namsefni-3/Grid/GridLayout.md)
 
