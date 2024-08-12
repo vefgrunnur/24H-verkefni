@@ -39,7 +39,7 @@
 | 38 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 39 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
 | 40 | _Vetrarfrí_ ? | Video | Audio | Iframe |  
-| 41 | Staðsetning hluta (_positioning elements_) | --- | --- | **Skil 14.10. KL. 23:59** |
+| 41 | Staðsetning hluta (_positioning elements_) | --- | --- | **Skil 14.10. <br>KL. 23:59** |
 
 ---
  
