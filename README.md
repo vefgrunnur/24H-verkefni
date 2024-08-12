@@ -32,14 +32,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
-| 3 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
-| 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
-| 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
-| 7 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
-| 8 | _Vetrarfrí_ ? | Video | Audio | Iframe |  
-| 9 | Staðsetning hluta (_positioning elements_) | --- | **Skil 29.02. KL. 23:59**  | _Námsmat_ |
+| 34 |  Kynning, innsetning VSC og skil í Innu ofl. | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
+| 35 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
+| 36 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
+| 37 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
+| 38 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
+| 39 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
+| 40 | _Vetrarfrí_ ? | Video | Audio | Iframe |  
+| 41 | Staðsetning hluta (_positioning elements_) | --- | --- | **Skil 14.10. KL. 23:59** |
 
 ---
  
