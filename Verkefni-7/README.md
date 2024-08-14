@@ -47,7 +47,7 @@ Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username]
 * 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
 * 1% Birting vefsíðu á internetinu
 
-#### Skil á verkefni 7 lokast síðasta kennsludag spannar 1, ---. Kl. 23:59.
+#### Skil á verkefni 7 lokast 14.10. Kl. 23:59.
 
 * Öllum gögnum er skilað í Innu/VEFÞ1VG05AU/verkefni 7
 * Tengill (_link_) sem vísar á vefsíðu á _Github.io_ er skilað í "_Athugasemd til kennara_" í verkefni 7
