@@ -65,7 +65,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 
 ### Verkefnaskil
 
-- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefnaskil 1 í Innu
+- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefni 1 í Innu
 - Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 1.
 - Skil á verkefni 1 lokast þegar tímaverkefni er lokið
 
