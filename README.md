@@ -10,7 +10,7 @@
 
 ---
 
-### Námsáætlun - í vinnslu
+### Námsáætlun
 
 #### 2024 haust, spönn 1. 
 
