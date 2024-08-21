@@ -11,6 +11,7 @@ lokunartaginu er skástrikið **/**. Hvert tag hefur svo að sjálfsögðu sitt 
 uppsetningunni. Tæmandi listi yfir helstu tög sem notuð eru við html ritun er t.d. að finna á
 vefnum [https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 
+![html element](htmlElement.phg)
 
 Þegar vefsíða er skoðuð nánar  í vafra (_hægri smella á mús og velja "inspector"_) kemur í ljós HTML kóði vefsíðunnar.
 
