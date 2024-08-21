@@ -51,7 +51,7 @@ Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðu
 ```CSS
 color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
 ```
-Á **a** tagið bætir þú við huldu-klasa stílum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
+Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
 
 ```CSS
 
