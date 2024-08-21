@@ -42,7 +42,7 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
 ```
-- [Skoða sýnidæmi](Námsefni-1/Synidaemi/README.md)
+- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
 
 ### 1.3 CSS
 
