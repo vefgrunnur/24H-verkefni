@@ -46,10 +46,20 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 
 ### 1.3 CSS
 
-Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið 1280px og hún á að vera miðjusett í skjáum sem eru stærri en 1280px. Þú notar eigin texta og setur huldu klasa (_pseudo class_) á **A** tagið.
+Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið 1280px og hún á að vera miðjusett í skjáum sem eru stærri en 1280px. Notaðu eftirfarandi CSS skipanir í stílsíðunni:
 
-```
+```CSS
 color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
+```
+Á **a** tagið bætir þú við huldu-klasa stílum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
+
+```CSS
+
+  a:link {skipun:gildi;}
+  a:visited {skipun:gildi;}
+  a:hover {skipun:gildi;}
+  a:active {skipun:gildi;}
+
 ```
 
 ### Námsmat 10% af heildareinkunn
