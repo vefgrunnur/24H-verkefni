@@ -28,7 +28,8 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
     vafra (browser).
 -   Það er **ekki æskilegt að hafa íslenska stafi** í heiti skjalsins eða hafa **stafabil** í heitinu.
 
-* [Sjá nánari umfjöllun](HTML-CSS/README.md)
+* ![html element](htmlElement.phg)
+    * [Sjá nánari umfjöllun](HTML-CSS/README.md)
 ________________________________________________________
 
 # CSS stílsetning
