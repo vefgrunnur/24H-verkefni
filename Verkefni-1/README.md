@@ -42,6 +42,8 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
 ```
+- [Skoða sýnidæmi](Námsefni-1/Synidaemi/README.md)
+
 ### 1.3 CSS
 
 Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið 1280px og hún á að vera miðjusett í skjáum sem eru stærri en 1280px. Þú notar eigin texta og setur huldu klasa (_pseudo class_) á **A** tagið.
