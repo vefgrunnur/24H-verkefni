@@ -136,12 +136,22 @@ Hvernig ákvarða ég þykkt leturs?
     p.thicker {font-weight:900} /* skali frá 100 til 900. 400 = normal */ 
 ```
 
+Dæmi um hvernig klasar eru settir í HTML skjal
+
 ```HTML
 <body>
     <p class="normal">This is a normal paragraph</p>
     <p class="thick">This is a thick paragraph</p>
     <p class="thicker">This is a thicker paragraph</p>
 </body>
+```
+Hvernig á að gera tengla (_links_) gagnvirka
+
+```CSS
+  a:link {color:red; text-decoration:underline;}
+  a:visited {color:brown; text-decoration:none;}
+  a:hover {color:orange; text-decoration:none;}
+  a:active {color:pink; text-decoration:underline;}
 ```
 
 Hvernig jafna ég texta?
