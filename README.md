@@ -54,7 +54,7 @@
 | 38 | --- | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | 
 | 39 | **Tímaverkefni** | Myndvinnsla í Photopea | _Tækniskóladagurinn_ | Unnið með mismunandi stærðir &lt;picture> |        
 | 40 | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** | Video & Audio | Iframe |  
-| 41 | Staðsetning hluta <br> (_positioning elements_) | --- | Uppsetning á internetið | **Skil 13.10. <br>KL. 23:59** |
+| 41 | Staðsetning hluta <br> (_positioning elements_) | Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
 
 ---
  
