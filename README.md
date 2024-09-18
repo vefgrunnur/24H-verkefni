@@ -42,6 +42,21 @@
 | 41 | Staðsetning hluta <br> (_positioning elements_) | --- | Uppsetning á internetið | **Skil 14.10. <br>KL. 23:59** |
 
 ---
+
+### Vikuáætlun (uppfærsla @ GJG)
+
+| Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
+| --- | --- | --- | --- | --- | 
+| 34 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
+| 35 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
+| 36 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
+| 37 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
+| 38 | --- | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | 
+| 39 | **Tímaverkefni** | Myndvinnsla í Photopea | _Tækniskóladagurinn_ | Unnið með mismunandi stærðir &lt;picture> |        
+| 40 | **Tímaverkefni** | Video | Audio | Iframe |  
+| 41 | Staðsetning hluta <br> (_positioning elements_) | --- | Uppsetning á internetið | **Skil 14.10. <br>KL. 23:59** |
+
+---
  
 ### Námsmat
 
