@@ -24,7 +24,7 @@
 | 39  | Myndvinnsla | 6 | 5 | 10 |
 | 40  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 20 | - |
 | 41  | _Síðasti kennsudagur 11/10_ |  | 50 | 50 |
-| 42  | _Námsmat_ |  |  |  |
+| 42  | **Skil 13.10. KL. 23:59** | _Námsmat_ |  |  |  |
 
 ---
 
@@ -39,7 +39,7 @@
 | 38 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 39 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | _Tækniskóladagurinn_| Unnið með mismunandi stærðir &lt;picture> |        
 | 40 | **Tímaverkefni** | Video | Audio | Iframe |  
-| 41 | Staðsetning hluta <br> (_positioning elements_) | --- | Uppsetning á internetið | **Skil 13.10. <br>KL. 23:59** |
+| 41 | Staðsetning hluta <br> (_positioning elements_) | Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
 
 ---
 
