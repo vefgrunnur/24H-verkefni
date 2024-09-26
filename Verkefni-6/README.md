@@ -15,7 +15,7 @@ Nemendur geta:
 * [Vefsíða og stílsíða](Namsefni-6/demosite.zip)  
 * [Myndir](Namsefni-6/originals.zip)
 
-.zip skrárnar hleður þú á tölvuna þína. Myndirnar á að setja í vefsíðuna, en fyrst þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
+.zip skrárnar hleður þú á tölvuna þína. Myndirnar á að setja í vefsíðuna, en fyrst þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
 
 - Um er að ræða eina stóra mynd á forsíðu sem þarf að vera í fjórum mismunandi stærðum. 
 - Myndin er síðan sótt inn á vefsíðuna í ` picture ` taginu.
