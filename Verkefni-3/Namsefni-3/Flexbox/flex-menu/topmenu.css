@@ -5,13 +5,11 @@
     flex-flow: column; /* ATH! í línu 32 er skipt yfir í row */
     background-color: rgb(173, 121, 221);
 }
-.title {
-    color:rgb(196, 251, 255);
-}
 .title h4 {
     padding: 0 1rem;
     text-transform:uppercase;
     text-align: center;
+    color:rgb(196, 251, 255);
 }
 .topmenu a {
 	display: block;
