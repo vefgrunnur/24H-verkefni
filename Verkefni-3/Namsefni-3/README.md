@@ -17,4 +17,4 @@ CSS grid er notað til að skilgreina skipulag (_e. layout_) vefsíðu með þv�
 * [Flex og grid sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-3/flex-menu/)
 * [Hér er hægt að skoða kóðann í sýnidæminu](Flexbox/flex-menu/index.html)
 * Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
-* Sjá nánari umfjöllun um skipulag hér:https://bok.vefforritun.is/21.grid
+* Sjá nánari umfjöllun um Grid skipulag hér:https://bok.vefforritun.is/21.grid
