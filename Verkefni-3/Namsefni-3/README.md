@@ -6,17 +6,15 @@ Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til a�
 
  Hér er dæmi um efnisyfirlit þar sem hægt er að hafa allt að 7 tengla ásamt titli.
 
- [Flex efnisyfirlit sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-3/flex-menu/)
-
-* [Hér er hægt að skoða kóðann í efnisyfirlitinu](Flexbox/flex-menu/index.html)
-* Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
-
 ---
 
 # Grid
 
 CSS grid er notað til að skilgreina skipulag (_e. layout_) vefsíðu með því að skilgreina raðir (_e. rows_) og dálka (_e. columns_) sem efni síðunar er staðsett í. Þetta svipar til þess þegar vefsíður voru skipulagðar með &lt;table> taginu í gamla daga en Grid er hannað með skalanleika í huga.
 
-Sjá nánar hér: 
+---
 
-* https://bok.vefforritun.is/21.grid
+* [Flex og grid sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-3/flex-menu/)
+* [Hér er hægt að skoða kóðann í sýnidæminu](Flexbox/flex-menu/index.html)
+* Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
+* Sjá nánari umfjöllun um skipulag hér:https://bok.vefforritun.is/21.grid
