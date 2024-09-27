@@ -44,7 +44,8 @@ body {
 
 ``` 
 
-### Lesefni
+### Grid svæðaskipulag
 
 - https://bok.vefforritun.is/18.skalanlegir
+- https://bok.vefforritun.is/21.grid#20.4.2
 

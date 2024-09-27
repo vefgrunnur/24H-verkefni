@@ -1,0 +1,56 @@
+/* Svegjanleg hönnun með Flex */
+
+.topnav {
+	display: flex;
+    flex-flow: column; /* ATH! í línu 32 er skipt yfir í row */
+    background-color: rgb(173, 121, 221);
+}
+.title {
+    color:rgb(196, 251, 255);
+}
+.title h4 {
+    padding: 0 1rem;
+    text-transform:uppercase;
+    text-align: center;
+}
+.topmenu a {
+	display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    padding: .5rem;
+    border-bottom: 1px solid #fff;
+}
+.topmenu a:visited {
+    background-color: #0ff;
+}
+.topmenu a:first-child {
+    border-top: 1px solid #fff;
+}
+
+/************ viðmið - breakpoints mobile up****************/
+
+@media screen and (min-width:48rem) {
+
+    .titill {
+        flex-grow: 1;             /* titill er með hlutfall 1 á móti 5 topmenu */
+    }
+    .topmenu {
+        flex-grow: 5;
+        display: flex;
+        justify-content: flex-end; /* efni jafnað hægra megin */
+        align-items: center;       /* hæð miðjusett */
+    }
+    .topmenu a {
+        border:0;
+        padding-right: 3rem;
+    }
+    .topmenu a:first-child {
+        border-top: 0;
+    }
+}
+@media screen and (min-width:48rem) {
+    .topnav {
+        flex-flow: row;
+    }
+}

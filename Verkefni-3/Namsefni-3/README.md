@@ -1,11 +1,15 @@
 # Flexbox
 
-Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til að skipuleggja vefsíðuhluta. Flexbox býður upp fjölmarga jöfnunarmöguleika. Þegar við vinnum með flexbox þá erum við annað hvort að setja efni í röð eða í dálk (_e. row / column_). 
+Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til að skipuleggja vefsíðuhluta. Flexbox býður upp fjölmarga jöfnunarmöguleika. Þegar við vinnum með flexbox þá erum við annað hvort að setja efni í röð eða í dálk (_e. row / column_). Það er hægt að ákveða breidd efnis í röðum og jafna hæð efnis eftir ákveðnu skipulagi.
 
-Það er hægt að ákveða breidd efnis í röðum og jafna hæð efnis eftir ákveðnu skipulagi. 
+ Flex skipulag hentar vel í alla runuvinnslu og þar sem nýtt efni er stöðugt að bætast við ss. spjallrásir. Einnig hentar Flex í efnisyfirlit (_content menu_) vefsíðu þar sem efni vefs er sífellt að breytast.
 
+ Hér er dæmi um efnisyfirlit þar sem hægt er að hafa allt að 7 tengla ásamt titli.
 
-* Sjá nánar hér: https://bok.vefforritun.is/17.css-flexbox
+ ![Flex efnisyfirlit sýnidæmi]()
+
+* Hér er hægt að skoða kóðann í efnisyfirlitinu
+* Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
 
 ---
 
