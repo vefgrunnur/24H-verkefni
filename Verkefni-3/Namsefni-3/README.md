@@ -6,9 +6,9 @@ Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til a�
 
  Hér er dæmi um efnisyfirlit þar sem hægt er að hafa allt að 7 tengla ásamt titli.
 
- ![Flex efnisyfirlit sýnidæmi]()
+ ![Flex efnisyfirlit sýnidæmi](Flexbox/flex-menu/index.html)
 
-* Hér er hægt að skoða kóðann í efnisyfirlitinu
+* [Hér er hægt að skoða kóðann í efnisyfirlitinu](Flexbox/flex-menu/index.html)
 * Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
 
 ---
