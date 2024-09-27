@@ -30,7 +30,7 @@
 
 @media screen and (min-width:48rem) {
 
-    .titill {
+    .title {
         flex-grow: 1;             /* titill er með hlutfall 1 á móti 5 topmenu */
     }
     .topmenu {
