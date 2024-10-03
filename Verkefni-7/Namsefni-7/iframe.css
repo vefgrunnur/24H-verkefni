@@ -8,46 +8,40 @@
 /* 20em = 320px*/
 .gluggi {
     width:100%;
-    height:10.5em; /*168px;*/ 
+    height:10.5rem; /*168px;*/ 
     margin: auto;
   }
 
-@media screen and (min-width: 25em) {
+@media screen and (min-width: 25rem) {
     .gluggi {
-      width:100%;
-      height:13em; /*207px;*/ 
+      height:13rem; /*207px;*/ 
     }
  }
 
-@media screen and (min-width: 30em) {
-    .gluggi {
-     width:100%;
-     height:15.75em; /*252px;*/ 
+@media screen and (min-width: 30rem) {
+    .gluggi { 
+     height:15.75rem; /*252px;*/ 
    }
  }
 
-@media screen and (min-width: 37.5em) {
+@media screen and (min-width: 37.5rem) {
     .gluggi {
-      width:100%;
-      height:19.7em; /*315px;*/
+      height:19.7rem; /*315px;*/
     }
  }
 
- @media screen and (min-width:48em){
+ @media screen and (min-width:48rem){
   .gluggi {
-    width:46em; /*736px;*/ 
-    height:24.6em; /*414px;*/ 
+    height:24.6rem; /*414px;*/ 
   }
 }
-@media screen and (min-width:60em){
+@media screen and (min-width:60rem){
   .gluggi {
-    width:58em; /*950px;*/ 
-    height:33em; /*534px;*/ 
+    height:33rem; /*534px;*/ 
   }
 }
-@media screen and (min-width: 80em) {
-    .gluggi { 
-      width:78em; /*1248px;*/ 
+@media screen and (min-width: 80rem) {
+    .gluggi {  
       height:44em; /*~702px;*/ 
     }
   } 
@@ -55,23 +49,21 @@
 
 /* google kort */
 
-@media screen and (min-width: 30em) {
+@media screen and (min-width: 20rem) {
     .kort {
      width:100%;    
-     height:15.75em; /*252px;*/ 
+     height:15.75rem; /*252px;*/ 
    }
  }
 
-@media screen and (min-width: 37.5em) {
+@media screen and (min-width: 37.5rem) {
     .kort {
-      width:100%;     /* 560px */
-      height:19.7em; /*315px; */
+      height:19.7rem; /*315px; */
     }
  }
 
- @media screen and (min-width:48em){
+ @media screen and (min-width:48rem){
   .kort {
-    width:100%;     /* ca 800px */
-    height:28.2em; /*451,2px;*/ 
+    height:28.2rem; /*451,2px;*/ 
   }
 }
