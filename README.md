@@ -12,34 +12,34 @@
 
 ### Námsáætlun
 
-#### 2024 haust, spönn 1. 
+#### 2024 haust, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 34  | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 5 |
-| 35  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 5 |
-| 36  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 10 |
-| 37  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
-| 38  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 5 | 
-| 39  | Myndvinnsla | 6 | 5 | 10 |
-| 40  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 20 | - |
-| 41  | _Síðasti kennsudagur 11/10_ |  | 50 | 50 |
-| 42  | **Skil 13.10. KL. 23:59** | _Námsmat_ |  |  |  |
+| 42 - 43  | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 5 |
+| 44  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 5 |
+| 45  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 10 |
+| 46  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
+| 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 5 | 
+| 48  | Myndvinnsla | 6 | 5 | 10 |
+| 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 20 | - |
+| 50  | _Síðasti kennsudagur 11/12_ |  | 50 | 50 |
+|   | **Skil 11.12. KL. 23:59** | _Námsmat_ |  |  |  |
 
 ---
 
-### Vikuáætlun 
+### Vikuáætlun spönn 2
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 34 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
-| 35 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
-| 36 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
-| 37 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 38 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
-| 39 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | _Tækniskóladagurinn_| Unnið með mismunandi stærðir &lt;picture> |        
-| 40 | **Tímaverkefni** | Video | Audio | Iframe |  
-| 41 | Staðsetning hluta <br> (_positioning elements_) | Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
+| 42-43 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
+| 44 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
+| 45 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
+| 46 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
+| 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
+| 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | _Tækniskóladagurinn_| Unnið með mismunandi stærðir &lt;picture> |        
+| 50 | Video | Audio | Iframe |  Staðsetning hluta <br> (_positioning elements_) |
+| - |  Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
 
 ---
 
