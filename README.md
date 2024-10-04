@@ -32,29 +32,16 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 42-43 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
-| 44 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
-| 45 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
+| 42-43 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 44 |  Float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
+| 45 | Flexbox | Grid dálkar | Grid skipulag | Grid svæði |   
 | 46 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
-| 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | _Tækniskóladagurinn_| Unnið með mismunandi stærðir &lt;picture> |        
-| 50 | Video | Audio | Iframe |  Staðsetning hluta <br> (_positioning elements_) |
-| - |  Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
+| 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | Myndanotkun í vefsíðu | 
+| 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |        
+| 50 | Lokaverkfefni | Hönnun vefs | Frágangur og uppsetning á internetið |
+| 50 |Video | Audio | Iframe |  Staðsetning hluta <br> (_positioning elements_) |
+   
 
----
-
-### Vikuáætlun (uppfærsla @ GJG)
-
-| Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
-| --- | --- | --- | --- | --- | 
-| 34 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
-| 35 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
-| 36 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
-| 37 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 38 | --- | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | 
-| 39 | **Tímaverkefni** | Myndvinnsla í Photopea | _Tækniskóladagurinn_ | Unnið með mismunandi stærðir &lt;picture> |        
-| 40 | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** | Video & Audio | Iframe |  
-| 41 | Staðsetning hluta <br> (_positioning elements_) | Hönnun vefs | Hönnun vefs | Frágangur og uppsetning á internetið | 
 
 ---
  
