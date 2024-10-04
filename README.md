@@ -19,7 +19,7 @@
 | 42 - 43  | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
 | 44  | Box módelið og eiginleikar taga (_display:_) | 2 | - | 10 |
 | 45  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 15 | - |
-| 46  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
+| 46  | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
 | 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 10 | - | 
 | 48  | Myndvinnsla | 6 | - | 15 |
 | 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga.  _**Lykilmatsþáttur**_ | 7 | 20 | - |
@@ -36,7 +36,7 @@
 | 43 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
 | 44 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
 | 45 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 46 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | Myndanotkun í vefsíðu | 
+| 46 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Myndanotkun í vefsíðu | 
 | 48 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 49 - 50 | Lokaverkefni <br> Hönnun vefs | Video, audio og Iframe | Staðsetning hluta <br> (_positioning elements_) | Frágangur og uppsetning á internetið | 
 
