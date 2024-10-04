@@ -40,23 +40,17 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 ### Lykilmatsþáttur
 
-#### Æfingaverkefni 5%
+#### Tímaverkefni 15%
 
-* **2% 4.1 Viðmið 2, 3 og 4 dálkum**
-    * 0 – 767px. Allir dálkar skiptast í einn dálk (1fr)
-    * 768px. 2 og 4 dálkar skiptast í 2 dálka (1fr 1fr)
-    * 960px – + (Allir dálkar skiptast rétt, 2, 3 og 4 dálkar)
-* **2% 4.2.1 Vefsíða með viðmiðum**
+* **Vefsíða með viðmiðum**
     * Mobile: 0 – 599px  _eins dálks hönnun_  
     * Tablet: 600px – 767px _tveggja dálka hönnun_
     * Desktop: 768px – 959px _3 eða 4 + dálka hönnun_
-    * 960px + Efni vefsíðunnar er miðjusett (_max-width_) í vafranum
-*  **1% 4.2.2 Valmynd sveigjanleg**
-    * Valmynd (nav) skal vera svegjanleg (_display:flex_)
+    * 1280px og stærri skjáir: Efni vefsíðunnar er miðjusett (_margin:auto;_)
+*  **Efnisyfirlit sveigjanlegt**
+    * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
 
-#### Tímaverkefni 15%
-
-> Skil á verkefni 4 lokast þegar síðasta kennslutíma verkefnisins er lokið
+> Skil á verkefni 4 lokast þegar kennslutíma tímaverksefnisins er lokið
 
 #### Einkunn verður birt í Innu
 

@@ -45,22 +45,17 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 
 ### Námsmat 15% af heildareinkunn
 
-#### Æfingaverkefni 5%
+#### Æfingaverkefni
 
 - 3.1 Flex raðir og dálkar
-- 3.2 Grid dálkar ` col-2, col-3 og col-4 `
-- 3.3 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
-
-
-#### Tímaverkefni 10%
-
-- Tímaverkefni er lagt fyrir í síðustu kennslustund 3. verkefnis 
+- 3.2 Flex efnisyfirlit
+- 3.3 Grid dálkar ` col-2, col-3 og col-4 `
+- 3.4 Vefsíða sett upp í CSS Grid skipulagi og HTML5 rithætti - (_Semantics_)
 
 ### Verkefnaskil
 
-- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefnaskil 3 í Innu
-- Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 3.
-- Skil á verkefni 3 lokast þegar tímaverkefni er lokið
+- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefnaskil 3 í Innu
+
 
 #### Einkunn verður birt í Innu
 

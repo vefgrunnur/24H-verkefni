@@ -55,15 +55,14 @@ Búðu til &lt;ul> lista með eftirtöldum upplýsingum í neðanmálsgrein .
 
 ### Námsmat
 
-#### Æfingaverkefni 5%
+#### Æfingaverkefni 10%
 
-* 2% 5.1 Leturval
-* 2% 5.2 Litaval 
-* 1% 5.3 Leiðakerfi
+* 3% 5.1 Leturval
+* 3% 5.2 Litaval 
+* 4% 5.3 Leiðakerfi
 
-#### Tímaverkefni 5%
+Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
 
-> Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
 

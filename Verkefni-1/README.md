@@ -64,22 +64,14 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Námsmat 10% af heildareinkunn
 
-#### Æfingaverkefni 5%
+#### Æfingaverkefni
 
 - 1.1 HTML 
 - 1.2 CSS 
 
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
-
-#### Tímaverkefni 5%
-
-- Tímaverkefni er lagt fyrir í síðustu kennslustund 1. verkefnis 
-
 ### Verkefnaskil
 
-- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefni 1 í Innu
-- Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 1.
-- Skil á verkefni 1 lokast þegar tímaverkefni er lokið
+- Setjið æfingaverkefni í **.zip skrá** og skilið í verkefni 1.
 
 #### Einkunn verður birt í Innu
 

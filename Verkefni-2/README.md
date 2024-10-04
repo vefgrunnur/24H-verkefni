@@ -63,22 +63,17 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 ### Námsmat 10% af heildareinkunn
 
-#### Æfingaverkefni 3%
+#### Tímaverkefni
 
 - 2.1 Box módelið 
 - 2.2 "_display_" stillingar  
 - 2.3 Display: float 
 - 2.4 Hulduklasar _Pseudo classes_
-- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
-
-#### Tímaverkefni 7%
-
 - Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
 
 ### Verkefnaskil
 
-- Setjið öll gögn tímaverkefnisins í .zip skrá og skilið í verkefnaskil 2 í Innu
-- Setjið æfingaverkefni í .zip skrá og skilið með í verkefni 2.
+- Setjið öll gögn tímaverkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
 - Skil á verkefni 2 lokast þegar tímaverkefni er lokið
 
 #### Einkunn verður birt í Innu
