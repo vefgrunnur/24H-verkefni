@@ -22,7 +22,7 @@
 | 46  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
 | 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 10 | - | 
 | 48  | Myndvinnsla | 6 | - | 15 |
-| 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. <br> _**Lykilmatsþáttur**_ | 7 | 20 | - |
+| 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga.  _**Lykilmatsþáttur**_ | 7 | 20 | - |
 | 50  | _Síðasti kennsudagur 11/12_ | Samtals | 55 | 45 |
 |   | **Skil 11.12. KL. 23:59** | _Námsmat_ |  |  |  |
 
