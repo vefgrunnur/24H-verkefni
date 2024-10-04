@@ -31,7 +31,7 @@ Nemendur geta:
 
 VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
 
-1. index.html skráin sem þú hefur búið til er alveg auð en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_), það eina sem þú þarft að gera er að slá inn `!` og síðan ýtir þá á `enter` eða `tab` takkann á lyklaborðinu þínu
+1. index.html skráin sem þú hefur búið til er alveg auð en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_), það eina sem þú þarft að gera er að slá inn `!` og síðan ýtir þú á `enter` eða `tab` takkann á lyklaborðinu þínu
 
 ![Námsefni-1](Namsefni-1/img/boilerplate.jpg) 
 
