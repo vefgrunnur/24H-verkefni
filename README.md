@@ -16,13 +16,13 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 42 - 43  | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 5 |
-| 44  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 5 |
-| 45  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 10 |
-| 46  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
-| 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 5 | 
-| 48  | Myndvinnsla | 6 | 5 | 10 |
-| 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 20 | - |
+| 42 - 43  | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
+| 44  | Box módelið og eiginleikar taga (_display:_) | 2 | - | 10 |
+| 45  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 15 | - |
+| 46  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | - | 20 |
+| 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 15 | - | 
+| 48  | Myndvinnsla | 6 | - | 15 |
+| 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. <br> _**Lykilmatsþáttur**_ | 7 | 20 | - |
 | 50  | _Síðasti kennsudagur 11/12_ |  | 50 | 50 |
 |   | **Skil 11.12. KL. 23:59** | _Námsmat_ |  |  |  |
 
