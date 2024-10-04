@@ -54,7 +54,7 @@ Dæmi:
 
 ```CSS
 
-.header h1 {
+header h1 {
     color: #fff;
     line-height: 1.2;
     font-weight: normal;
