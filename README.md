@@ -38,10 +38,7 @@
 | 46 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
 | 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | Myndanotkun í vefsíðu | 
 | 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |        
-| 50 | Lokaverkfefni <br> Hönnun vefs | Video - audio | Iframe | Staðsetning hluta <br> (_positioning elements_) |
-| 50 |  |  |  |  Frágangur og uppsetning á internetið |
-   
-
+| 50 | Lokaverkfefni <br> Hönnun vefs | Video, audio og Iframe | Staðsetning hluta <br> (_positioning elements_) | Frágangur og uppsetning á internetið | 
 
 ---
  
