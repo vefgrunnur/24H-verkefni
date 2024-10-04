@@ -32,13 +32,13 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 42-43 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 44 |  Float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
-| 45 | Flexbox | Grid dálkar | Grid skipulag | Grid svæði |   
-| 46 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | Myndanotkun í vefsíðu | 
-| 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |        
-| 50 | Lokaverkfefni <br> Hönnun vefs | Video, audio og Iframe | Staðsetning hluta <br> (_positioning elements_) | Frágangur og uppsetning á internetið | 
+| 42 - 43 |  Vefþróunarsvæði í [VSC](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 43 - 44 |  Float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
+| 44 - 45 | Flexbox | Grid dálkar | Grid skipulag | Grid svæði |   
+| 45 - 46 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
+| 46 - 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | Myndanotkun í vefsíðu | 
+| 48 - 49 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |        
+| 49 - 50 | Lokaverkefni <br> Hönnun vefs | Video, audio og Iframe | Staðsetning hluta <br> (_positioning elements_) | Frágangur og uppsetning á internetið | 
 
 ---
  
