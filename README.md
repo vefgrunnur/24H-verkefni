@@ -23,7 +23,7 @@
 | 47  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 15 | - | 
 | 48  | Myndvinnsla | 6 | - | 15 |
 | 49  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. <br> _**Lykilmatsþáttur**_ | 7 | 20 | - |
-| 50  | _Síðasti kennsudagur 11/12_ |  | 50 | 50 |
+| 50  | _Síðasti kennsudagur 11/12_ |  |  |  |
 |   | **Skil 11.12. KL. 23:59** | _Námsmat_ |  |  |  |
 
 ---
