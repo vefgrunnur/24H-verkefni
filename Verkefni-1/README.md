@@ -71,7 +71,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Verkefnaskil
 
-- Setjið æfingaverkefni í **.zip skrá** og skilið í verkefni 1.
+- Setjið æfingaverkefni í **.zip skrá** og skilið í verkefni 1 í INNU.
 
 #### Einkunn verður birt í Innu
 
