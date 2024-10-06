@@ -38,14 +38,14 @@ Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username]
 
 ### Lykilmatsþáttur 20%
 
+* 3% Umföllun um hljómsveit eða tónlistarmann (_frjálst efnisval_).
 * 3% Kvikmynd er á vefsíðunni &lt;iframe> (_share video from mediaserver_)
 * 3% Hljóðskrá er á vefsíðunni &lt;audio> (_mp3 format_)
 * 3% Kort er á vefsíðunni &lt;iframe> (_embed google map_)
-* 3% Ákveðin staðsetning taga. (_position: absolute - fixed_)
-* 3% Umföllun um hljómsveit eða tónlistarmann.
+* 2% Ákveðin staðsetning taga. (_position: absolute - fixed_)
 * 2% Vefsíðan er í svegjanlegri hönnun og efni síðunnar birtist eðlilega í öllum helstu skjástærðunum 
 * 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
-* 1% Birting vefsíðu á internetinu
+* 2% Birting vefsíðu á internetinu
 
 #### Skil á verkefni 7 lokast 13.10. Kl. 23:59.
 
