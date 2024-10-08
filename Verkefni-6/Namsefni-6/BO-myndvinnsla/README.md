@@ -1,5 +1,23 @@
 # Myndvinnsla
 
+### Bakgrunnur tekin úr mynd
+
+1. Búðu til _"Raster Mask"_ 
+   * valslá -> _"Raster Mask"_ -> _"Add (Reveal all)"_ <br>
+    ![Mynd 1](Freyr/Frey_Project-1.jpg)
+   * sláðu á lyklaborðið `Control` + `f` <br>
+    ![Mynd 2](Freyr/Frey_Project-2.jpg)
+   * Skrifaðu _"Remove"_ í innsláttareitinn og veldu _"Remove BG"_ <br>
+    ![Mynd 3](Freyr/Frey_Project-3.jpg)
+   * Þá hreinsar forritið bakgrunninn út <br>
+    ![Mynd 3](Freyr/Frey_Project-4.jpg)
+2. Vistaðu síðan myndina sem .png skrá 
+    * Valslá -> _"File"_ -> _"Export as"_ -> **.png**
+
+### Bakgrunnur skyggður
+
+Til að draga fram persónu frá bakgrunninum er hægt að dekkja bakgrunninn með eftirfarandi hætti
+
 1. Mynd opnuð í Photopea
     * veljið _Lasso_ í tólastikunni 
     * stillið _Feather_ á 30px í valslá

@@ -31,13 +31,13 @@ a:hover, a:active {
     color: rgb(246, 226, 218);
     padding: 1em;
 }
-.header {
+header {
     padding: 0;
     display: grid;
     grid-template-columns: 1fr;
     align-items: center;
 }
-.header h1 {
+header h1 {
     font-weight: 800;
     text-transform: uppercase;
     text-align: center;
@@ -61,23 +61,23 @@ figure {
     margin:0;
 }
 
-.footer {
+footer {
     color: rgb(255, 166, 65);
     padding: 1em;
 }
-.footer ul{
+footer ul{
     list-style: none;
 }
-a, .footer a {
+a, footer a {
     color: rgb(255, 166, 65);
 }
-.footer a {
+footer a {
     line-height: 1.5;
 }
-.footer a:visited {
+footer a:visited {
     color: rgb(255, 81, 0);
 }
-.footer a:active, .footer a:hover {
+footer a:active, .footer a:hover {
     text-decoration: none;
 }
 blockquote {
@@ -115,7 +115,7 @@ blockquote {
 }
 @media screen and (min-width:80em) {
     .container {
-        max-width: 76em;
+        max-width: 80em;
         margin: 0 auto;
     }
 }
