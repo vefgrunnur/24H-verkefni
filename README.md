@@ -33,10 +33,10 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 42 - 43 |  Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 43 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
-| 44 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
-| 45 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 46 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Myndanotkun í vefsíðu | 
+| 44 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
+| 45 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
+| 46 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
+| 47 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_Navigation_) | Myndanotkun í vefsíðu | 
 | 48 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
 | 49 - 50 | Lokaverkefni <br> Hönnun vefs | Video, audio og Iframe | Staðsetning hluta <br> (_positioning elements_) | Frágangur og uppsetning á internetið | 
 
