@@ -75,7 +75,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 | HTML tag | CSS klasi | Grid area name |
 | --- | --- | --- | 
-| main | .main | grid-area: main |
+| main  | .main   | grid-area: main   |
 | aside | .aside1 | grid-area: aside1 | 
 | aside | .aside1 | grid-area: aside1 | 
 
@@ -119,6 +119,8 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     }
     ```
   * Efni vefsíðunnar er miðjusett (margin:auto)
+
+- [Sýnidæmi 4.3](Namsefni-4/Dæmi43.md)
 
 ---
 
