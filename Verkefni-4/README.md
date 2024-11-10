@@ -46,7 +46,7 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
     * Farsímar (_Mobile_): 0 – 37.5rem (600px)  _eins dálks hönnun_  
     * Spjaldtölvur (_Tablet_): 48rem (768px) _tveggja dálka hönnun_
     * Fartölvur (_Laptop_): 60rem (960px) _3 dálka hönnun_
-    * Borðtölvur (_Desktop_): 80rem (1280px) _4 + dálka hönnun_
+    * Borðtölvur (_Desktop_): 80rem (1280px) _4 dálka hönnun_
     * Efni vefsíðunnar er miðjusett (_margin:auto;_) í stærri skjáum (100rem)
 *  **Efnisyfirlit sveigjanlegt**
     * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
