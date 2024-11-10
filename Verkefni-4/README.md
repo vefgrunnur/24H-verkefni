@@ -44,12 +44,12 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 * Viðmið: 37.5rem (600px)
   * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px)
-  * &lt;main> í einum dálki (1fr)
+  * &lt;main> í einum dálki (_grid-template-columns:(1fr);_)
     * &lt;article> í einum dálk
-    * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
+    * &lt;section> með &lt;aside> í tveimur dálkum (_grid-template-columns:(1fr 1fr);_)
 * Viðmið: 60rem (960px)
-  * &lt;main> í tveimur dálkum (2fr 1fr)
-  * &lt;section> með &lt;aside> í einum dálki (1fr)
+  * &lt;main> í tveimur dálkum (_grid-template-columns:(2fr 1fr);_)
+  * &lt;section> með &lt;aside> í einum dálki (_grid-template-columns:(1fr);_)
 * Viðmið: 80rem (1280px)
   * Efni vefsíðunnar er miðjusett
 
