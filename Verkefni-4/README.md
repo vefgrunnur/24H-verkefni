@@ -79,8 +79,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
       "aside1"
       "aside2";
     }
-    
-```
+    ```
 
 * Viðmið: 37.5rem (600px)
   * Efnisyfirlit með _Flex direction: row;_
