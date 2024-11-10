@@ -59,6 +59,8 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 Afritaðu vefsíðu 4.2 og stílsíðuna og notum **"grid template area** til að skipuleggja nýju vefsíðuna. 
 
+> Aside tögin eru tekin út úr Section taginu og því eytt.
+
 Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum tögum og gefa þeim síðan _grid area_ staðsetningu td.
 
 | HTML tag | CSS klasi | Grid area name |
