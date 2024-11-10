@@ -77,7 +77,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 | --- | --- | --- | 
 | main  | .main   | grid-area: main   |
 | aside | .aside1 | grid-area: aside1 | 
-| aside | .aside1 | grid-area: aside1 | 
+| aside | .aside1 | grid-area: aside2 | 
 
 * Viðmið: 0 – 599px,
   * efnisyfirlit er _"Flex"_ eins og í vefsíðu 4.2  
