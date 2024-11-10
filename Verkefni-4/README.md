@@ -31,7 +31,7 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 
 ## 4.2 Sveigjanleg vefsíða
 
-Afritaðu vefsíðu og stílsíðu sem þú gerðir í **Tímaverkefni 3.1** og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
+Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
 
