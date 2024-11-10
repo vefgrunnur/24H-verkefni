@@ -20,9 +20,9 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
   * allir dálkar með 100% breidd (1fr)
 * Viðmið: 48rem (768px – 959px)
   * 2 og 4 dálkar með 50% breidd (1fr 1fr)
-* Viðmið: 60rem (768px – 959px)
+* Viðmið: 60rem (960px - 1279px)
   * 3 dálkar 33.33% breidd (1fr 1fr 1fr)
-* Viðmið: 80rem (768px – 959px)
+* Viðmið: 80rem (1280px - 1599px)
   * 4 dálkar 25% breidd (4, 1fr)
 * Viðmið: 100rem (1600px)
   * Efni vefsíðunnar er miðjusett
@@ -41,18 +41,16 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (1fr)
   * í efnisyfirliti eru tenglar með _display:block_
-* Viðmið: 37.5rem (600px – 767px)
+* Viðmið: 37.5rem (600px)
   * Efnisyfirlit með _Flex direction: row;_
-* Viðmið: 48rem (768px – 959px)
+* Viðmið: 48rem (768px)
   * &lt;main> í einum dálki (1fr)
     * &lt>article> í einum dálk
     * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
-* Viðmið: 60rem (768px – 959px)
+* Viðmið: 60rem (960px)
   * &lt;main> í tveimur dálkum (2fr 1fr)
   * &lt;section> með &lt;aside> í einum dálki (1fr)
-* Viðmið: 80rem (768px – 959px)
-  * 4 dálkar 25% breidd (4, 1fr)
-* Viðmið: 100rem (1600px)
+* Viðmið: 80rem (1280px)
   * Efni vefsíðunnar er miðjusett
 
 - [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
