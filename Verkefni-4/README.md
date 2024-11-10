@@ -32,7 +32,7 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 
 ---
 
-## 4.2 Sveigjanleg vefsíða
+## 4.2 Sveigjanleg vefsíða með _"Grid-template-columns"_
 
 Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
 
@@ -44,9 +44,12 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 * Viðmið: 37.5rem (600px – 767px)
   * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px – 959px)
-  * 2 og 4 dálkar með 50% breidd (1fr 1fr)
+  * &lt;main> í einum dálki (1fr)
+    * &lt>article> í einum dálk
+    * &lt;aside> í tveimur dálkum (1fr 1fr)
 * Viðmið: 60rem (768px – 959px)
-  * 3 dálkar 33.33% breidd (1fr 1fr 1fr)
+  * &lt;main> í tveimur dálkum (2fr 1fr)
+  * * &lt;aside> í einum dálki (1fr)
 * Viðmið: 80rem (768px – 959px)
   * 4 dálkar 25% breidd (4, 1fr)
 * Viðmið: 100rem (1600px)
