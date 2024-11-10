@@ -13,14 +13,11 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu (_copy_) _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega.  <br>
+Afritaðu _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega.  <br>
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (1fr)
-  * í efnisyfirliti eru tenglar með _display:block_
-* Viðmið: 37.5rem (600px – 767px)
-  * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px – 959px)
   * 2 og 4 dálkar með 50% breidd (1fr 1fr)
 * Viðmið: 60rem (768px – 959px)
@@ -40,6 +37,20 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
+
+* Viðmið: 0 – 599px,
+  * allir dálkar með 100% breidd (1fr)
+  * í efnisyfirliti eru tenglar með _display:block_
+* Viðmið: 37.5rem (600px – 767px)
+  * Efnisyfirlit með _Flex direction: row;_
+* Viðmið: 48rem (768px – 959px)
+  * 2 og 4 dálkar með 50% breidd (1fr 1fr)
+* Viðmið: 60rem (768px – 959px)
+  * 3 dálkar 33.33% breidd (1fr 1fr 1fr)
+* Viðmið: 80rem (768px – 959px)
+  * 4 dálkar 25% breidd (4, 1fr)
+* Viðmið: 100rem (1600px)
+  * Efni vefsíðunnar er miðjusett
 
 - [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
