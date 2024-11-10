@@ -45,7 +45,7 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
   * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px)
   * &lt;main> í einum dálki (1fr)
-    * &lt>article> í einum dálk
+    * &lt;article> í einum dálk
     * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
 * Viðmið: 60rem (960px)
   * &lt;main> í tveimur dálkum (2fr 1fr)
@@ -54,6 +54,33 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
   * Efni vefsíðunnar er miðjusett
 
 - [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
+
+## 4.3 Sveigjanleg vefsíða með _"Grid-template-area"_
+
+Afritaðu vefsíðu 4.2 og stílsíðuna og notum **"grid template area** til að skipuleggja nýju vefsíðuna. 
+
+Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum tögum td.
+
+### CSS
+
+| tag | klasi | area name |
+| --- | --- | --- | 
+| main | .main | grid-area: main |
+
+* Viðmið: 0 – 599px,
+  * allir dálkar með 100% breidd (1fr)
+  * í efnisyfirliti eru tenglar með _display:block_
+* Viðmið: 37.5rem (600px)
+  * Efnisyfirlit með _Flex direction: row;_
+* Viðmið: 48rem (768px)
+  * &lt;main> í einum dálki (1fr)
+    * &lt;article> í einum dálk
+    * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
+* Viðmið: 60rem (960px)
+  * &lt;main> í tveimur dálkum (2fr 1fr)
+  * &lt;section> með &lt;aside> í einum dálki (1fr)
+* Viðmið: 80rem (1280px)
+  * Efni vefsíðunnar er miðjusett
 
 ---
 
