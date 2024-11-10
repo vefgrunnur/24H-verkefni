@@ -70,7 +70,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 | aside | .aside1 | grid-area: aside1 | 
 
 * Viðmið: 0 – 599px,
-  * efnisyfirlit er eins og í vefsíðu 4.1 
+  * efnisyfirlit er _"Flex"_ eins og í vefsíðu 4.2  
   * ```CSS
     main {
       display: grid;
@@ -101,7 +101,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     ```
     
 * Viðmið: 80rem (1280px)
-  * Efni vefsíðunnar er miðjusett
+  * Efni vefsíðunnar er miðjusett (margin:auto)
 
 ---
 
