@@ -71,7 +71,7 @@ Afritaðu vefsíðu 4.2 og stílsíðuna og notum **"grid template area** til a�
 
 > `aside` tögin eru tekin út úr `section` taginu, þannig að `article` og `aside` eru saman í `main` taginu.
 
-Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum tögum og gefa þeim síðan _grid area_ staðsetningu td.
+Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum tögum og staðsetja þau í _grid area_
 
 | HTML tag | CSS klasi | Grid area name |
 | --- | --- | --- | 
