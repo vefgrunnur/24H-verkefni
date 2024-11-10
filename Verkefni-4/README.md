@@ -69,8 +69,6 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 | aside | .aside1 | grid-area: aside1 | 
 | aside | .aside1 | grid-area: aside1 | 
 
-
-
 * Viðmið: 0 – 599px,
   * efnisyfirlit er eins og í vefsíðu 4.1 
   * ```CSS
@@ -83,8 +81,6 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     }
     ```
 
-* Viðmið: 37.5rem (600px)
-  * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px)
   * ```CSS
     main {
@@ -93,14 +89,17 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
       "article article"
       "aside1 aside2";
     }
-    
-```
-  * &lt;main> í einum dálki (1fr)
-    * &lt;article> í einum dálk
-    * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
+    ```
+
 * Viðmið: 60rem (960px)
-  * &lt;main> í tveimur dálkum (2fr 1fr)
-  * &lt;section> með &lt;aside> í einum dálki (1fr)
+  * ```CSS
+    main {
+      display: grid;
+      grid-template-areas: 
+      "aside1 article article aside2";
+    }
+    ```
+    
 * Viðmið: 80rem (1280px)
   * Efni vefsíðunnar er miðjusett
 
