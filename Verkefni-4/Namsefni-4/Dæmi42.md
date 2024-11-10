@@ -4,10 +4,10 @@
 
 ![Grid RWD](verk-42-1.jpg)
 
-- 600px - 959px: @media screen and (min-width:600px){....}; 
+- 48rem - 768px: @media screen and (min-width:48rem){....}; 
 
 ![Grid RWD](verk-42-2.jpg)
 
-- 960px +: @media screen and (min-width:960px){....};  
+- 60rem - 960px +: @media screen and (min-width:60rem){....};  
 
 ![Grid RWD](verk-42-3.jpg)
