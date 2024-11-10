@@ -101,6 +101,13 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     ```
     
 * Viðmið: 80rem (1280px)
+  * ```CSS
+    main {
+      display: grid;
+      grid-template-areas: 
+      "aside1 article article article aside2";
+    }
+    ```
   * Efni vefsíðunnar er miðjusett (margin:auto)
 
 ---
