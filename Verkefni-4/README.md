@@ -17,13 +17,13 @@ Afritaðu _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu ve
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px,
-  * allir dálkar með 100% breidd (1fr)
+  * allir dálkar með 100% breidd (_grid-template-columns:(1fr);_)
 * Viðmið: 48rem (768px – 959px)
-  * 2 og 4 dálkar með 50% breidd (1fr 1fr)
+  * 2 og 4 dálkar með 50% breidd (_grid-template-columns:(1fr 1fr);_)
 * Viðmið: 60rem (960px - 1279px)
-  * 3 dálkar 33.33% breidd (1fr 1fr 1fr)
+  * 3 dálkar 33.33% breidd (_grid-template-columns:repeat(3, 1fr);_)
 * Viðmið: 80rem (1280px - 1599px)
-  * 4 dálkar 25% breidd (4, 1fr)
+  * 4 dálkar 25% breidd (_grid-template-columns:repeat(4, 1fr);_)
 * Viðmið: 100rem (1600px)
   * Efni vefsíðunnar er miðjusett
  
