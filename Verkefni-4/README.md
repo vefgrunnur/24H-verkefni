@@ -18,12 +18,18 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (1fr)
-* Viðmið: 600px – 767px,
+  * í efnisyfirliti eru tenglar með _display:block_
+* Viðmið: 37.5rem (600px – 767px)
+  * Efnisyfirlit með _Flex direction: row;_
+* Viðmið: 48rem (768px – 959px)
   * 2 og 4 dálkar með 50% breidd (1fr 1fr)
-* Viðmið: 768px – 959px,
-  * 2 dálkar 50% breidd (1fr 1fr),
-  * 3 dálkar 33.33% breidd (1fr 1fr 1fr) 
+* Viðmið: 60rem (768px – 959px)
+  * 3 dálkar 33.33% breidd (1fr 1fr 1fr)
+* Viðmið: 80rem (768px – 959px)
   * 4 dálkar 25% breidd (4, 1fr)
+* Viðmið: 100rem (1600px)
+  * Efni vefsíðunnar er miðjusett
+ 
 
 - [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
