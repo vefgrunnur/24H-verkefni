@@ -36,6 +36,16 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 
 Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
 
+Skipulag vefsíðunnar á að vera eftirfarandi
+
+ * nav
+ * header
+ * main
+   * article
+   * section
+     * aside
+     * aside 
+
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
 
 * Viðmið: 0 – 599px,
