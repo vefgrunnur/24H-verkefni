@@ -82,7 +82,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 * Viðmið: 0 – 599px,
   * efnisyfirlit er _"Flex"_ eins og í vefsíðu 4.2  
   * ```CSS
-    main {
+    .main {
       display: grid;
       grid-template-areas: 
       "article"
@@ -93,7 +93,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 * Viðmið: 48rem (768px)
   * ```CSS
-    main {
+    .main {
       display: grid;
       grid-template-areas: 
       "article article"
@@ -103,7 +103,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 * Viðmið: 60rem (960px)
   * ```CSS
-    main {
+    .main {
       display: grid;
       grid-template-areas: 
       "aside1 article article aside2";
@@ -112,7 +112,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     
 * Viðmið: 80rem (1280px)
   * ```CSS
-    main {
+    .main {
       display: grid;
       grid-template-areas: 
       "aside1 article article article aside2";
