@@ -46,10 +46,10 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 * Viðmið: 48rem (768px – 959px)
   * &lt;main> í einum dálki (1fr)
     * &lt>article> í einum dálk
-    * &lt;aside> í tveimur dálkum (1fr 1fr)
+    * &lt;section> með &lt;aside> í tveimur dálkum (1fr 1fr)
 * Viðmið: 60rem (768px – 959px)
   * &lt;main> í tveimur dálkum (2fr 1fr)
-  * * &lt;aside> í einum dálki (1fr)
+  * &lt;section> með &lt;aside> í einum dálki (1fr)
 * Viðmið: 80rem (768px – 959px)
   * 4 dálkar 25% breidd (4, 1fr)
 * Viðmið: 100rem (1600px)
