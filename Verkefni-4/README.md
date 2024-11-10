@@ -34,7 +34,7 @@ Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir sk
 
 ## 4.2 Sveigjanleg vefsíða með _"Grid-template-columns"_
 
-Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
+Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-42**. 
 
 Skipulag vefsíðunnar á að vera eftirfarandi
 
