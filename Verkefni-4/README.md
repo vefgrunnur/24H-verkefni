@@ -70,8 +70,16 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 
 * Viðmið: 0 – 599px,
-  * allir dálkar með 100% breidd (1fr)
-  * í efnisyfirliti eru tenglar með _display:block_
+  * efnisyfirliti e eins og í 4.1
+  * ```CSS
+    main {
+      display: grid;
+      grid-template-areas: 
+      "article"
+      "aside1"
+      "aside2";
+    }
+```
 * Viðmið: 37.5rem (600px)
   * Efnisyfirlit með _Flex direction: row;_
 * Viðmið: 48rem (768px)
