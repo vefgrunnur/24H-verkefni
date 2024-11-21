@@ -10,12 +10,11 @@ Nemendur geta:
 
 ![Octocat](github-octocat.svg)
 
-#### Meðfylgjandi verkefnalýsingunni eru tvær .zip skrár
+#### Meðfylgjandi verkefnalýsingunni eru vinnugögn í .zip skrá
 
-* [Vefsíða og stílsíða](Namsefni-6/demosite.zip)  
-* [Myndir](Namsefni-6/originals.zip)
+* [Vefsíða, stílsíða og myndir](Namsefni-6/vinnugogn.zip)  
 
-.zip skrárnar hleður þú á tölvuna þína. Myndirnar á að setja í vefsíðuna, en fyrst þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
+.zip skrána hleður þú á tölvuna þína. Myndirnar á að setja í vefsíðuna, en fyrst þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu í réttri stærð og fljótar að hlaðast inn á síðuna. 
 
 - Um er að ræða eina stóra mynd á forsíðu sem þarf að vera í fjórum mismunandi stærðum. 
 - Myndin er síðan sótt inn á vefsíðuna í ` picture ` taginu.
@@ -26,7 +25,7 @@ Nemendur geta:
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
     * Viðmið: [0 - 767px] – [768px - 960px] – [960px - 1280px] – [1280px - 2000px]
     * Með &lt;picture> taginu í vefsíðu er hægt að sortera myndir eftir breidd skjásins
-    * [Forsíðumynd](myndir/mynd1.jpg)
+    * [Forsíðumynd](myndir/mynd1.jpg) (_ath! nýjar myndir fylgja með sem hægt er að nota sem forsíðumynd_)
 1. **Mynd með gagnsæjum (_transparent_) bakgrunni**
     * Hreinsið út bakgrunn úr mynd í myndvinnsluforriti 
     * [Mynd með gagnsæjum bakgrunni](myndir/mynd2.jpg)
