@@ -1,6 +1,7 @@
-* **vinnugogn** innheldur vefsíður og stílsíðu sem á að nota í æfingaverkefninu
-* **originals** myndir sem á að vinna fyrir vefsíðuna
+* **vinnugogn** innheldur vefsíðu og stílsíðu sem á að nota í æfingaverkefninu
+    * myndir sem á að vinna fyrir vefsíðuna eru í möppunni **originals** 
 * **lesefni** ýmis fróðleikur um myndvinnslu fyrir vef
+* **Maski-myndvinnsla** leiðbeiningar um hvernig á að hreinsa út bakgrunn úr ljósmynd
 
 ## Myndvinnsla
 
