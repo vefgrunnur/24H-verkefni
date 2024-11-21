@@ -9,7 +9,7 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 
 #### Format ljósmynda er hægt að setja í vefsíður.
 
-* **.Webp** WebP er þróað af Google sem ætlað er að koma í staðinn fyrir JPEG, PNG og GIF skráarsnið. Það styður bæði tapaða og taplausa þjöppun, [8] sem og hreyfimyndir og alfa gagnsæi. Með því að nota WebP geta vefstjórar og vefhönnuðir búið til smærri, innihaldsríkari myndir sem gera vefinn hraðari. WebP taplausar myndir eru 26% minni að stærð miðað við PNG. Sjá nánar á [Wikipedia.org/wiki/WebP](https://en.wikipedia.org/wiki/WebP)
+* **.Webp** WebP er þróað af Google sem ætlað er að koma í staðinn fyrir JPEG, PNG og GIF skráarsnið. Það styður bæði tapaða og taplausa þjöppun, [Lossy & lossless](https://www.adobe.com/uk/creativecloud/photography/discover/lossy-vs-lossless.html) sem og hreyfimyndir og alfa gagnsæi. Með því að nota WebP geta vefstjórar og vefhönnuðir búið til smærri, innihaldsríkari myndir sem gera vefinn hraðari. WebP taplausar myndir eru 26% minni að stærð miðað við PNG. Sjá nánar á [Wikipedia.org/wiki/WebP](https://en.wikipedia.org/wiki/WebP)
 
 * **.jpg** – _Joint Photographic Experts Group_. JPEG þjöppun hentar vel fyrir ljósmyndir. JPEG er “_lossy_” þjöppunartækni. .jpg format hentar best fyrir ljósmyndir og flóknari grafík. Eftir því sem myndin er þjöppuð meira því óskýrari verður hún. Hönnuðurinn þarf því að velja á milli gæða myndarinnar og stærðar hennar.
 
