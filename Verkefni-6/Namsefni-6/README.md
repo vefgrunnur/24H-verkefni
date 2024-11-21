@@ -1,4 +1,4 @@
-* **demosite** innheldur vefsíður og stílsíðu sem á að nota í æfingaverkefninu
+* **vinnugogn** innheldur vefsíður og stílsíðu sem á að nota í æfingaverkefninu
 * **originals** myndir sem á að vinna fyrir vefsíðuna
 * **lesefni** ýmis fróðleikur um myndvinnslu fyrir vef
 
