@@ -7,11 +7,15 @@
 
 Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort vigur- (_vector_) eða rastamynd (_bitmap_). Yfirleitt á heitið „stafræn mynd“ við rastamynd. Stafrænar ljósmyndavélar og skannar geta búið til rastamyndir. Til að búa til einfalda vigurmynd getum við kóðað hana en oftast notum við hönnunarforrit til að teikna myndina. 
 
-#### Þrenns konar gerðir rastamynda er hægt að setja í vefsíður.
+#### Format ljósmynda er hægt að setja í vefsíður.
 
-* .jpg – _Joint Photographic Experts Group_. JPEG þjöppun hentar vel fyrir ljósmyndir. JPEG er “_lossy_” þjöppunartækni þar sem m.a. upplýsingar sem mannsaugað greinir ekki eru þjappaðar. .jpg format hentar best fyrir ljósmyndir og flóknari grafík. Eftir því sem myndin er þjöppuð meira því óskýrari verður hún. Hönnuðurinn þarf því að velja á milli gæða myndarinnar og stærðar hennar.
-* .png – _Portable Network Graphics_. .png myndir eru svipaðar .gif myndum en bjóða uppá meiri myndgæði. Þjöppun án taps í 24 bita RGB lit. .png getur þjappað 5-25% og hefur möguleika á gagnsæjum bakgrunni.
-* .gif – _Graphic Image File_. Gif formatið hentar vel fyrir einfalda grafík en síður fyrir ljósmyndir. Gif myndir hafa mest 256 lita upplausn og taplausa LZW þjöppun. Gif myndir geta verið með litlausan (transparent) bakgrunn. 
+* **.Webp** WebP er þróað af Google sem ætlað er að koma í staðinn fyrir JPEG, PNG og GIF skráarsnið. Það styður bæði tapaða og taplausa þjöppun, [8] sem og hreyfimyndir og alfa gagnsæi. Með því að nota WebP geta vefstjórar og vefhönnuðir búið til smærri, innihaldsríkari myndir sem gera vefinn hraðari. WebP taplausar myndir eru 26% minni að stærð miðað við PNG. Sjá nánar á [Wikipedia.org/wiki/WebP](https://en.wikipedia.org/wiki/WebP)
+
+* **.jpg** – _Joint Photographic Experts Group_. JPEG þjöppun hentar vel fyrir ljósmyndir. JPEG er “_lossy_” þjöppunartækni. .jpg format hentar best fyrir ljósmyndir og flóknari grafík. Eftir því sem myndin er þjöppuð meira því óskýrari verður hún. Hönnuðurinn þarf því að velja á milli gæða myndarinnar og stærðar hennar.
+
+* **.png** – _Portable Network Graphics_. .png myndir eru svipaðar .gif myndum en bjóða uppá meiri myndgæði. Þjöppun án taps í 24 bita RGB lit. .png getur þjappað 5-25% og hefur möguleika á gagnsæjum bakgrunni.
+
+* **.gif** – _Graphic Image File_. Gif formatið hentar vel fyrir einfalda grafík en síður fyrir ljósmyndir. Gif myndir hafa mest 256 lita upplausn og taplausa LZW þjöppun. Gif myndir geta verið með litlausan (transparent) bakgrunn. Gif er lítið notað í dag í vefsíðuhönnun.
 
 #### Myndvinnsluforrit
 
