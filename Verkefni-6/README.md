@@ -64,14 +64,11 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
         }
 ```
 
-#### Tímaverkefni 15%
+#### Tímaverkefni og æfingaverkefni 15%
 
-1. **Stór forsíðumynd 2%**
-    * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: [0 - 767px] – [768px - 960px] – [960px - 1280px] – [1280px - 2000px]
-1. **Myndaröð – 6 myndir 2%**
-    * 1 mynd: [0 - 768px] – 2 myndir: [768px - 960px] – 3 myndir: [960px - 1600px] – miðjusett: (max-width 1600px)
-1. **Mynd með gegnsæjum bakgrunni	(_.png_) 1%**
+1. Stór forsíðumynd 
+1. Myndaröð – 6 myndir 
+1. Mynd með gegnsæjum bakgrunni	(_.png_) 
 
 
 > Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
