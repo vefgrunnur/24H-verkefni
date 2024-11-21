@@ -23,7 +23,18 @@ Nemendur geta:
 
 1. **Stór forsíðumynd**
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: [0 - 767px] – [768px - 960px] – [960px - 1280px] – [1280px - 2000px]
+    * Viðmið: <br>
+
+    ```HTML
+    <picture>
+        <source media="(min-width:80rem)" srcset="stór mynd 1920px +">
+        <source media="(min-width:60rem)" srcset="1280px breidd">
+        <source media="(min-width:48rem)" srcset="960px breidd"> 
+        <source media="(min-width:20rem)" srcset="768px breidd">
+        <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
+    </picture>
+    ```
+        
     * Með &lt;picture> taginu í vefsíðu er hægt að sortera myndir eftir breidd skjásins
     * [Forsíðumynd](myndir/mynd1.jpg) (_ath! nýjar myndir fylgja með sem hægt er að nota sem forsíðumynd_)
 1. **Mynd með gagnsæjum (_transparent_) bakgrunni**
