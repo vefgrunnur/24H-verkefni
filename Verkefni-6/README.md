@@ -22,7 +22,7 @@ Nemendur geta:
 - Síðan eru 6 myndir sem eiga allar að vera í sömu stærð og þær eiga síðan að birtast eftir skjástærð þrjár í röð, síðan tvær í röð og í einum dálki í farsímaskjáum. 
 
 1. **Stór forsíðumynd**
-    * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
+    * Myndin er vistuð í fimm stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
     * Viðmið: <br>
 
     ```HTML
@@ -30,7 +30,8 @@ Nemendur geta:
         <source media="(min-width:80rem)" srcset="stór mynd 1920px +">
         <source media="(min-width:60rem)" srcset="1280px breidd">
         <source media="(min-width:48rem)" srcset="960px breidd"> 
-        <source media="(min-width:20rem)" srcset="768px breidd">
+        <source media="(min-width:37.5rem)" srcset="768px breidd">
+        <source media="(min-width:20rem)" srcset="600px breidd">
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
     ```
