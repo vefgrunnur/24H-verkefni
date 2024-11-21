@@ -17,6 +17,10 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 
 * **.gif** – _Graphic Image File_. Gif formatið hentar vel fyrir einfalda grafík en síður fyrir ljósmyndir. Gif myndir hafa mest 256 lita upplausn og taplausa LZW þjöppun. Gif myndir geta verið með litlausan (transparent) bakgrunn. Gif er lítið notað í dag í vefsíðuhönnun.
 
+#### Samanburður
+
+* [JPG vs. WebP](https://www.reddit.com/r/photopea/comments/ue29pz/file_size_jpg_vs_webp/)
+
 #### Myndvinnsluforrit
 
 #### _Adobe Photoshop_
