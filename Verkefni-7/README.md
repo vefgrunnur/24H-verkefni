@@ -29,7 +29,7 @@ Nemendur geta:
 
 #### Birting vefsíðu á internetinu
 
-Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [synidaemi/lokaverkefni/2023/beatles/login.html](https://vefgrunnur.github.io/synidaemi/lokaverkefni/2023/beatles/login.html)
+Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [Bítlarnir (sýnidæmi)](https://vefgrunnur.github.io/synidaemi/lokaverkefni/2023/beatles/ferill.html)
 
 Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
