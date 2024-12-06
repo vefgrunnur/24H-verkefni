@@ -31,7 +31,7 @@ Nemendur geta:
 
 Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. 
 
-> [Lokaverkefni sýnidæmi](https://vefgrunnur.github.io/synidaemi/lokaverkefni/)
+> [Lokaverkefni sýnidæmi](https://vefgrunnur.github.io/synidaemi/)
 
 Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
